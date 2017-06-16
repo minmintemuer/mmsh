@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset = "utf-8">
+<meta name = "viewport" content = "width=device-width, initial-scale=1">
+<title>重庆茂名商会后台管理界面</title>
+	<script src = "__PUBLIC__/admin/js/jquery-1.11.1.min.js"></script>
+	<script src = "__PUBLIC__/admin/js/bootstrap.min.js"></script>
+	<script src = "__PUBLIC__/admin/js/chart.min.js"></script>
+	<script src = "__PUBLIC__/admin/js/chart-data.js"></script>
+	<script src = "__PUBLIC__/admin/js/easypiechart.js"></script>
+	<script src = "__PUBLIC__/admin/js/easypiechart-data.js"></script>
+	<script src = "__PUBLIC__/admin/js/bootstrap-datepicker.js"></script>
+	<script src = "__PUBLIC__/admin/js/admin.js"></script>
+<link href = "__PUBLIC__/admin/css/bootstrap.min.css" rel = "stylesheet">
+<link href = "__PUBLIC__/admin/css/datepicker3.css" rel = "stylesheet">
+<link href = "__PUBLIC__/admin/css/styles.css" rel = "stylesheet">
+
+  <!--[if lt IE 9]>
+  <script src = "__PUBLIC__/admin/js/html5shiv.js"></script>
+<script src = "__PUBLIC__/admin/js/respond.min.js"></script><![endif]-->
+
+</head>
+
+<body>
+	<nav class = "navbar navbar-inverse navbar-fixed-top" role = "navigation">
+		<div class = "container-fluid">
+			<div class = "navbar-header">
+				<button type = "button" class = "navbar-toggle collapsed" data-toggle = "collapse" data-target = "#sidebar-collapse">
+					<span class = "sr-only">Toggle navigation</span>
+					<span class = "icon-bar"></span>
+					<span class = "icon-bar"></span>
+					<span class = "icon-bar"></span>
+				</button>
+				<a class = "navbar-brand" href = "#"><span>重庆茂名商会</span>ADMIN</a>
+				<ul class = "user-menu">
+					<li class = "dropdown pull-right">
+						<a href = "#" class = "dropdown-toggle" data-toggle = "dropdown"><span class = "glyphicon glyphicon-user"></span> User <span class = "caret"></span></a>
+						<ul class = "dropdown-menu" role = "menu">
+							<!--<li><a href = "#"><span class = "glyphicon glyphicon-user"></span> Profile</a></li>
+							<li><a href = "#"><span class = "glyphicon glyphicon-cog"></span> Settings</a></li>-->
+							<li><a href = "{$U['logout']}"><span class = "glyphicon glyphicon-log-out"></span> 退出登录</a></li>
+						</ul>
+					</li>
+				</ul>
+			</div>
+		</div><!-- /.container-fluid -->
+	</nav>
+
+	<div id = "sidebar-collapse" class = "col-sm-3 col-lg-2 sidebar">
+		<!--通过给当前页面标题添加active类来标识当前界面-->
+		<ul class = "nav menu">
+			<li class = "{$nav[1]}"><a href = "{$U['index']}"><span class = "glyphicon glyphicon-dashboard"></span>网站概况</a></li>
+			<li class = "{$nav[7]}"><a href = "{$U['ld']}"><span class = "glyphicon glyphicon-info-sign"></span>领导管理</a></li>
+			<li class = "{$nav[2]}"><a href = "{$U['gg']}"><span class = "glyphicon glyphicon-bullhorn"></span>公告管理</a></li>
+			<li class = "{$nav[3]}"><a href = "{$U['dt']}"><span class = "glyphicon glyphicon-comment"></span>动态管理</a></li>
+			<li class = "{$nav[4]}"><a href = "{$U['hy']}"><span class = "glyphicon glyphicon-user"></span>会员管理</a></li>
+			<li class = "{$nav[5]}"><a href = "{$U['ly']}"><span class = "glyphicon glyphicon-pencil"></span>留言处理</a></li>
+			<li class = "{$nav[6]}"><a href = "{$U['fl']}"><span class = "glyphicon glyphicon-th-list"></span>分类管理</a></li>
+			<li class = "{$nav[7]}"><a href = "{$U['ym']}"><span class = "glyphicon glyphicon-info-sign"></span>页面设置</a></li>
+			<li role = "presentation" class = "divider"></li>
+			<li><a href = "{$U['logout']}"><span class = "glyphicon glyphicon-user"></span>退出登录</a></li>
+		</ul>
+		<div class = "attribution"> 技术支持@<a href = "#" title = "焕延科技" target = "_blank">焕延科技</a></div>
+	</div><!--/.sidebar-->
+	<div class = "col-sm-9 col-sm-offset-3 col-lg-10 col-lg-offset-2 main">
+		 {__CONTENT__}
+	</div>
+
+	<script>
+		$('#calendar').datepicker({});
+
+    !function ($) {
+        $(document).on("click", "ul.nav li.parent > a > span.icon", function () {
+            $(this).find('em:first').toggleClass("glyphicon-minus");
+        });
+        $(".sidebar span.icon").find('em:first').addClass("glyphicon-plus");
+    }(window.jQuery);
+
+    $(window).on('resize', function () {
+        if ($(window).width() > 768) $('#sidebar-collapse').collapse('show')
+    })
+    $(window).on('resize', function () {
+        if ($(window).width() <= 767) $('#sidebar-collapse').collapse('hide')
+    })
+	</script>
+</body>
+
+</html>

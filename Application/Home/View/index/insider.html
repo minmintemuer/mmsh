@@ -1,0 +1,117 @@
+<div class="section">
+    <div class="container-fluid">
+        <div class = "row">
+            <div class = "banner">
+                <div class="bigImg"
+                     style="background-image:url(http://www.gdgcc.gov.cn/templates/default/images/bigImg1.jpg);">&nbsp;
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="section" style="background-color:#e6e6fa;">
+    <div class="container">
+        <div class="row Mp">
+            <div class="col-md-3 padding-none">
+                <div class="sideMenu">
+                    <!--带箭头的栏目块，开始-->
+                    <div class = "sideTit" style="background-color:#d60011;">
+                        <a href = "{$U['Index_info']}" style="display:inline-block;text-decoration:none;">
+                            <h3><i class="fa fa-user-circle" aria-hidden="true" style="color:#930000;"></i>&nbsp;商会会员</h3>
+                            <p style="margin-left:20px;">member</p>
+                        </a>
+                        <style>
+                            @media (max-width: 768px){
+                                .c2{
+                                    display:inline-block !important;
+                                }
+                            }
+                            @media (min-width: 769px){
+                                #navbar-ex-collapse2{
+                                    display:none !important;
+                                }
+                            }
+                        </style>
+                        <!--按钮，默认隐藏，用来控制下拉菜单的显示；小屏幕显示-->
+                        <div class="navbar navbar-default c2" style="background-color:#d60011; border:none; display:block !important;
+                            width:100px !important;
+                            float:right;
+                           padding-top:30px;">
+                            <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#navbar-ex-collapse2" style=" background-image:url(__PUBLIC__/images/downArrow.png); width:30px; height:30px;border:none;
+               background-repeat:no-repeat !important;background-size:100% 100% !important;" >
+                            </button>
+                        </div>
+                        <!--下拉菜单-->
+                        <div class="collapse navbar-collapse" id="navbar-ex-collapse2" >
+                            <ul class="nav navbar-nav navbar-right text-center">
+                                <volist name="leibie" id="data">
+                                    <if condition="$data.id == $leiming['id']">
+                                        <li class="21 on">
+                                            <else /><li class="21">
+                                    </if>
+                                    <i class="ibg">&nbsp;</i>
+                                    <a  href="{$U['Index_insider']}/id/{$data.id}">{$data.name}</a>
+                                    </li>
+                                </volist>
+                            </ul>
+                        </div>
+                    </div>
+                    <!--带箭头的栏目块，结束-->
+                    <ul class="sideMenuNav hidden-xs">
+                        <volist name="leibie" id="data">
+                            <if condition="$data.id == $leiming['id']">
+                                <li class="21 on">
+                                    <else /><li class="21">
+                            </if>
+                            <i class="ibg">&nbsp;</i>
+                            <a  href="{$U['Index_insider']}/id/{$data.id}">{$data.name}</a>
+                            </li>
+                        </volist>
+                    </ul>
+                </div>
+                <div class="sideContact hidden-xs" style="background-image:url(__PUBLIC__/images/contactBg.jpg);">
+                     <div class="sideContactTit">
+                         <a style="text-decoration:none;"><i style="color:#930000;" class="fa fa-comment" aria-hidden="true"></i>
+                             联系我们
+                         </a></div>
+                    <div class="sideContactBox">
+                        <ul class="fa-ul">
+                            <li><i class="fa-li fa fa-address-book" aria-hidden="true"></i>{$info->address}</li>
+                            <li><i class="fa-li fa fa-phone" aria-hidden="true"></i>{$info->tel}</li>
+                            <li><i class="fa-li fa fa-envelope" aria-hidden="true"></i>{$info->email}</li>
+                            <li><i class="fa-li fa fa-fax" aria-hidden="true"></i>{$info->fax}</li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-9" style="background-color:#e6e6fa;height:auto;">
+                <div class="Ml">
+                    <div class="path">
+                        <div class="insider">
+                            <strong>{$leiming.name}</strong>
+                        </div>
+                        <div class="pathdiv" style="margin-top:20px;">
+                            <a href="{$U['Index_index']}.html" style="text-decoration: none;">
+                                首页
+                            </a>
+                            <span>&gt;</span>
+                            <a href="{$U['Index_insider']}.html">商户会员</a>
+                            <span>&gt;</span>
+                            <span class="on">{$leiming.name}</span>
+                        </div>
+                    </div>
+                    <ul class="downLoad newsList">
+                        <volist name="list" id="centent">
+                            <li><a href="{$U['Index_insider_cont']}/id/{$centent.id}.html"><span>{$centent.date|substr=0,10}</span><div>{$centent.name}</div></a></li>
+                        </volist>
+                    </ul>
+                    <div class="pageds">
+                        {$page}
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<!--让内容，和底部footer空出一点距离-->
+<div style="height:15px; width:100%;"></div>

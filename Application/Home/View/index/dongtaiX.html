@@ -1,0 +1,83 @@
+<div class="section">
+    <div class="container-fluid">
+        <div class = "row">
+            <div class = "banner">
+                <div class="bigImg"
+                     style="background-image:url(http://www.gdgcc.gov.cn/templates/default/images/bigImg1.jpg);">&nbsp;
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="section" style="background-color:#e6e6fa;">
+    <div class="container">
+        <div class="row Mp">
+            <div class="col-md-3 padding-none">
+                <div class="sideMenu">
+                    <div class="sideTit">
+                        <a style="text-decoration:none;"href="{$U['Index_dongtai']}">
+                            <h3><i class="fa fa-shopping-bag" aria-hidden="true" style="color:#930000;"></i>
+                                商会动态分类
+                            </h3>
+                            <p style="margin-left:20px;">active</p>
+                        </a>
+                    </div>
+                    <ul class="sideMenuNav hidden-xs">
+                        <volist name="leibie" id="data">
+                            <if condition="$data.id == $leiming['typeid']">
+                                <li class="21 on">
+                                    <else /><li class="21">
+                            </if>
+                            <i class="ibg">&nbsp;</i>
+                            <a  href="{$U['Index_dongtai']}/id/{$data.id}">{$data.name}</a>
+                            </li>
+                        </volist>
+                    </ul>
+                </div>
+                <div class="sideContact hidden-xs" style="background-image:url(__PUBLIC__/images/contactBg.jpg);">
+                    <div class="sideContactTit"><a style="text-decoration:none;">
+                        <i style="color:#930000;" class="fa fa-comment" aria-hidden="true"></i>
+                        联系我们
+                    </a></div>
+                    <div class="sideContactBox">
+                         <ul class="fa-ul">
+                            <li><i class="fa-li fa fa-address-book" aria-hidden="true"></i>{$info->address}</li>
+                            <li><i class="fa-li fa fa-phone" aria-hidden="true"></i>{$info->tel}</li>
+                            <li><i class="fa-li fa fa-envelope" aria-hidden="true"></i>{$info->email}</li>
+                            <li><i class="fa-li fa fa-fax" aria-hidden="true"></i>{$info->fax}</li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-8" style="background-color:#e6e6fa;height:auto;">
+                <div class="rightBox Ml">
+                    <div class="path">
+                        <div class="insider" style="margin-left:-40px;">
+                            <strong>{$leiming.name}</strong>
+                        </div>
+                        <div class="pathdiv" style="margin-top:20px;">
+                            <a href="{$U['Index_index']}.html" style="text-decoration: none;">
+                                首页
+                            </a>
+                            <span>&gt;</span>
+                            <a href="{$U['Index_dongtai']}.html">商户动态</a>
+                            <span>&gt;</span>
+                            <span class="on">{$leiming.name}</span>
+                        </div>
+                    </div>
+                    <div class="downLoadTit">
+                        <h2>{$content.name}</h2>
+                        <div class="source">
+                            时间：{$content.date}
+                        </div>
+                    </div>
+                    <div class="content fixed">
+                        {$content.content}
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<!--让内容，和底部footer空出一点距离-->
+<div style="height:15px; width:100%;"></div>

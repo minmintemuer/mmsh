@@ -1,0 +1,179 @@
+
+ <!--顶部导航条结束-->
+<div class="section">
+    <div class="container-fluid">
+         <div class = "row">
+      <div class = "banner">
+        <div class="bigImg" style="background-image:url(http://www.gdgcc.gov.cn/templates/default/images/bigImg1.jpg);">&nbsp;
+        </div>
+
+      </div>
+    </div>
+    </div>
+</div>
+<div class="section" style="background-color:#e6e6fa;">
+    <div class="container">
+        <div class="row Mp">
+       <div class="col-md-3 padding-none">
+           <!--这一句添加了Mp属性就错了-->
+
+       <div class="sideMenu">
+           <!--
+           <div class="sideTit">
+               <a style="text-decoration:none;"href="{$U['Index_contact']}.html">
+                   <h3>联系我们</h3>
+                   <p>introduces</p>
+               </a>
+           </div>
+           -->
+           <!--带箭头的栏目块，开始-->
+           <div class = "sideTit" style="background-color:#d60011;">
+               <a href = "{$U['Index_info']}.html" style="display:inline-block;text-decoration:none;">
+                   <h3>留言系统</h3>
+                   <p>message</p>
+               </a>
+
+               <style>
+                   @media (max-width: 768px){
+                       .c2{
+                           display:inline-block !important;
+                       }
+                   }
+                   @media (min-width: 769px){
+                       #navbar-ex-collapse2{
+                           display:none !important;
+                       }
+                   }
+               </style>
+               <!--按钮，默认隐藏，用来控制下拉菜单的显示；小屏幕显示-->
+               <div class="navbar navbar-default c2" style="background-color:#d60011; border:none; display:block !important;
+                            width:100px !important;
+                            float:right;
+                           padding-top:30px;">
+                   <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#navbar-ex-collapse2" style=" background-image:url(__PUBLIC__/images/downArrow.png); width:30px; height:30px;border:none;
+               background-repeat:no-repeat !important;
+               	background-size:100% 100% !important;" >
+
+                   </button>
+
+               </div>
+
+               <!--下拉菜单-->
+               <div class="collapse navbar-collapse" id="navbar-ex-collapse2" >
+                   <ul class="nav navbar-nav navbar-right text-center">
+                       <li>
+                           <a href="">联系方式</a>
+                       </li>
+                       <li>
+                           <a href="">留言系统</a>
+                       </li>
+
+
+
+
+                   </ul>
+               </div>
+           </div>
+           <!--带箭头的栏目块，结束-->
+
+
+
+           <ul class="sideMenuNav hidden-xs">
+               <li class="hidden-xs">
+                   <a href="{$U['Index_contact']}.html">
+                       联系方式
+                   </a>
+               </li>
+               <li class="hidden-xs on">
+                   <a  class="cur" href="{$U['Index_message']}.html">
+                       留言系统
+                   </a>
+               </li>
+           </ul>
+       </div>
+           <div class="sideContact hidden-xs" style="background-image:url(__PUBLIC__/images/contactBg.jpg);">
+               <div class="sideContactTit">
+                   <a style="text-decoration:none;" href="{$U['Index_contact']}.html">联系我们</a></div>
+               <div class="sideContactBox">
+                   <ul class="fa-ul">
+                       <li><i class="fa-li fa fa-address-book" aria-hidden="true"></i>{$info->address}</li>
+                       <li><i class="fa-li fa fa-phone" aria-hidden="true"></i>{$info->tel}</li>
+                       <li><i class="fa-li fa fa-envelope" aria-hidden="true"></i>{$info->email}</li>
+                       <li><i class="fa-li fa fa-fax" aria-hidden="true"></i>{$info->fax}</li>
+                   </ul>
+               </div>
+           </div>
+       </div>
+        <div class="col-md-9" style="background-color:#e6e6fa;">
+          <div class="Ml">
+            <div class="path">
+                <div class="message">
+                    <strong>留言系统</strong>
+                </div>
+            </div>
+              <div class="messageform" style="margin:30px 10px 10px 10px;height:800px;">
+                  <div class="section">
+                      <div class="container">
+                          <div class="row">
+                              <div class="col-md-3"></div>
+                              <div class="col-md-3 col-xs-12">
+                                  <form role="form" action="" method="post">
+                                      <div class="form-group">
+                                          <label class="control-label" for="exampleInputName1">姓名</label>
+                                          <input class="form-control" name="name" id="exampleInputName1"
+                                                 placeholder="" type="text">
+                                      </div>
+                                      <div class="form-group">
+                                          <label class="control-label" for="exampleInputTel1">电话</label>
+                                          <input class="form-control" name="phone" id="exampleInputTel1"
+                                                 placeholder="" type="text">
+                                      </div>
+                                      <div class="form-group">
+                                          <label class="control-label" for="exampleInputEmail1">邮箱</label>
+                                          <input class="form-control" name="email" id="exampleInputEmail1"
+                                                 placeholder="" type="email">
+                                      </div>
+                                      <div class="form-group">
+                                          <label class="control-label" for="exampleInputContent1">留言内容</label>
+                                          <textarea class="form-control" name="content" rows="5" id="exampleInputContent1" style="resize:none"></textarea>
+                                      </div>
+                                      <button type="submit" class="btn btn-lg btn-warning">提交</button>
+                                  </form>
+                              </div>
+                              <div class="col-md-3"></div>
+                          </div>
+                      </div>
+                  </div>
+              </div>
+        <div>
+        </div>
+        </div>
+    </div>
+        </div>
+    </div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</div>     
+
+
+ <!--让内容，和底部footer空出一点距离-->
+      <div style="height:15px; width:100%;"></div>
+      
+
+    <!--底部的footer-->
+
+

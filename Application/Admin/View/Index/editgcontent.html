@@ -1,0 +1,70 @@
+<link href = "__PUBLIC__/umeditor/themes/default/css/umeditor.css" type = "text/css" rel = "stylesheet">
+  <script type = "text/javascript" src = "__PUBLIC__/umeditor/third-party/template.min.js"></script>
+  <script type = "text/javascript" charset = "utf-8" src = "__PUBLIC__/umeditor/umeditor.config.min.js"></script>
+  <script type = "text/javascript" charset = "utf-8" src = "__PUBLIC__/umeditor/umeditor.min.js"></script>
+  <script type = "text/javascript" src = "__PUBLIC__/umeditor/lang/zh-cn/zh-cn.min.js"></script>
+<br>
+<br>
+<form action = "{$U[es]}" method = "post">
+   <input type = "hidden" name="url" value="{$turl}" style="display: none">
+   <input type = "hidden" name="tab" value="{$tab}" style="display: none">
+<div class = "row">
+  <div class = "col-xs-12 col-md-12 col-lg-12">
+<h1>{$tname}</h1>
+  </div>
+  <div class = "col-xs-12 col-md-12 col-lg-12">
+<label><h4>文章标题:</h4><input type = "text" id = "aname" class = "form-control" value = "{$data['name']}" name = "name"></label>
+<br><input type = "hidden" id = "articleid" name="id" value = "{$data.id}" style = "display: none">
+
+<label><h4>文章分类:</h4>
+  <select name = "type" class = "form-control">
+    <volist name = "type" id = "vo">
+      <option value = "{$vo.id}" <?php echo $vo[id]==$data['type']?"selected":"";?> >{$vo.name}</option>
+    </volist>
+</select>
+</label>&nbsp;
+   <a href = "{$U['fl']}"><button class = "btn btn-info btn-sm">+添加分类</bUtton></a>
+    </div>
+  <div class = "col-xs-12 col-md-12 col-lg-12">
+    <label><h4>排序权重:</h4><input type = "text" id = "seq" name = "seq" value = "{$data['seq']}" class = "form-control"></label>
+  </div>
+  <div class = "col-xs-12 col-md-12 col-lg-12">
+    <button class = "btn btn-primary btn-lg" onclick = "editsub(this)">发布</button>
+  </div>
+</div>
+<br>
+<div class = "row">
+  <div class = "col-xs-12 col-md-12 col-lg-12">
+<script type = "text/plain" id = "myEditor" style = "width:100%;">
+        {$data['content']}
+        
+
+</script>
+    
+<script type = "text/javascript">
+    <!--修改配置文件-->
+    window.UMEDITOR_CONFIG.imageUrl = "{:U('Admin/caozuo/upload','','')}";//图片上传地址
+    window.UMEDITOR_CONFIG.imagePath = "<?php echo dirname($_SERVER['REQUEST_SCHEME'].':\/\/'.$_SERVER['SERVER_NAME'].':'.$_SERVER['SERVER_PORT'].$_SERVER['SCRIPT_NAME']);?>";//图片加载url
+    //实例化编辑器
+    var um = UM.getEditor('myEditor');
+    um.addListener('blur', function () {
+        $('#focush2').html('编辑器失去焦点了')
+    });
+    um.addListener('focus', function () {
+        $('#focush2').html('')
+    });
+    /**
+     * 使用UM.getEditor('myEditor').getContent()获取富文本编辑工具的内容
+     */
+    function editsub(oThis) {
+        $(oThis).submit();
+        cCont = UM.getEditor('myEditor').getContent();
+        cId = $('#articleid').val();
+        cSeq = $('#seq').val();
+        cName = $('#aname').val();
+
+
+    }
+</script>
+    </div>
+</div></form>

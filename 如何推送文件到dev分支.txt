@@ -1,0 +1,61 @@
+Administrator@ZGC-20160713FQU MINGW64 /d/www/mmsh (zm)
+$ git add .
+
+Administrator@ZGC-20160713FQU MINGW64 /d/www/mmsh (zm)
+$ git commit  -m "1223"
+[zm c42c520] 1223
+ 2 files changed, 1 insertion(+), 1 deletion(-)
+ delete mode 100644 ooo.txt
+ create mode 100644 test.txt
+
+Administrator@ZGC-20160713FQU MINGW64 /d/www/mmsh (zm)
+$ git checkout dev
+Switched to branch 'dev'
+Your branch is up-to-date with 'origin/dev'.
+
+Administrator@ZGC-20160713FQU MINGW64 /d/www/mmsh (dev)
+$ git merge zm
+Updating 5ccbc62..c42c520
+Fast-forward
+ ooo.txt  | 1 -
+ test.txt | 1 +
+ 2 files changed, 1 insertion(+), 1 deletion(-)
+ delete mode 100644 ooo.txt
+ create mode 100644 test.txt
+
+Administrator@ZGC-20160713FQU MINGW64 /d/www/mmsh (dev)
+$
+
+Administrator@ZGC-20160713FQU MINGW64 /d/www/mmsh (dev)
+$ git push origin
+warning: push.default is unset; its implicit value has changed in
+Git 2.0 from 'matching' to 'simple'. To squelch this message
+and maintain the traditional behavior, use:
+
+  git config --global push.default matching
+
+To squelch this message and adopt the new behavior now, use:
+
+  git config --global push.default simple
+
+When push.default is set to 'matching', git will push local branches
+to the remote branches that already exist with the same name.
+
+Since Git 2.0, Git defaults to the more conservative 'simple'
+behavior, which only pushes the current branch to the corresponding
+remote branch that 'git pull' uses to update the current branch.
+
+See 'git help config' and search for 'push.default' for further information.
+(the 'simple' mode was introduced in Git 1.7.11. Use the similar mode
+'current' instead of 'simple' if you sometimes use older versions of Git)
+
+Counting objects: 3, done.
+Delta compression using up to 4 threads.
+Compressing objects: 100% (2/2), done.
+Writing objects: 100% (3/3), 255 bytes | 0 bytes/s, done.
+Total 3 (delta 1), reused 0 (delta 0)
+To git@git.oschina.net:changke/MMSH.git
+   5ccbc62..c42c520  dev -> dev
+
+Administrator@ZGC-20160713FQU MINGW64 /d/www/mmsh (dev)
+$

@@ -1,0 +1,219 @@
+<!--这是首页导航end-->
+<!--banner模块开始-->
+<div class="section">
+    <div class="container-fluid">
+        <div class= "row">
+            <div id="fullcarousel-example" data-interval="2000" class="carousel slide" data-ride="carousel">
+                <div class="carousel-inner">
+                    <div class="item active">
+                        <img src="__PUBLIC__/images/11.jpg">
+                        <div class="carousel-caption">
+                            <h2></h2>
+                            <p></p>
+                        </div>
+                    </div>
+                    <div class="item">
+                        <img src="__PUBLIC__/images/11.jpg">
+                        <div class="carousel-caption">
+                            <h2></h2>
+                            <p></p>
+                        </div>
+                    </div>
+                    <div class="item">
+                        <img src="__PUBLIC__/images/11.jpg">
+                        <div class="carousel-caption">
+                            <h2></h2>
+                            <p></p>
+                        </div>
+                    </div>
+                </div>
+                <a class="left carousel-control" href="#fullcarousel-example" data-slide="prev">
+                    <i class="icon-prev fa fa-angle-left"></i>
+                </a>
+                <i class="icon-next fa fa-angle-right"></i>
+                </a>
+            </div>
+        </div>
+    </div>
+</div>
+<!--这是首页的banner end-->
+<div class="section">
+    <div class="container-fluid">
+        <div class = "row">
+            <div>
+                <img src = "__PUBLIC__/images/banners1.jpg" class="img-responsive" width="100%"/>
+            </div>
+        </div>
+    </div>
+</div>
+<!--这是专题图片结尾-->
+<div class="section">
+    <div class="container">
+        <div class = "row">
+            <div class = "col-md-4 col-lg-4 col-xs-12">
+                <div class = "page-header">
+                    <h4>新闻
+                        <span style ="color:#d60011;">NEWS</span>
+                    </h4>
+                </div>
+                <div id = "carousel" class = "carousel slide" data-ride = "carousel" data-interval = "1000">
+                    <div class = "carousel-inner" role = "listbox">
+                        <div class = "item active img2">
+                            <a href = "images/0.jpg">
+                                <img src = "__PUBLIC__/images/0.jpg" >
+                            </a>
+                            <div class = "carousel-caption"><h3></h3>
+                                <p></p>
+                            </div>
+                        </div>
+                        <div class = "item img2"><a href = "images/1.jpg">
+                            <img src = "__PUBLIC__/images/1.jpg" style="width:100%;height:200%;"></a>
+                            <div class = "carousel-caption">
+                                <h3></h3>
+                                <p> </p>
+                            </div>
+                        </div>
+                        <div class = "item img2"><a href = "images/2.jpg">
+                            <img src = "__PUBLIC__/images/2.jpg" style="width:100%;height:200%;"></a>
+                            <div class = "carousel-caption"><h3></h3>
+                                <p> </p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class = "col-md-4 col-lg-4 col-xs-12">
+                <div class = "newsBoxRight">
+                    <div class = "indexTitle">
+                        <h4>
+                            <strong class="pull-left">
+                                <i class="fa fa-shopping-bag" aria-hidden="true" style="color:red;"></i>&nbsp;商会简介
+                            </strong>
+                        </h4>
+                        <span class="pull-right cl">
+                            <a href="info.html" style="text-decoration:none;color:orange;">
+                                <strong>More&nbsp;</strong>
+                            </a>
+                        </span>
+                    </div>
+                    <div class = "slideNotice">
+                        <div class = "bd">
+                            <ul class = "indexNews">
+                                <p style = "line-height:37px;">
+                关于联合开展2016年度我省上规模民营企业调研广东省商务厅关于组团参加墨西哥、古巴、美国关于征集《广东省工商业联合会年鉴（2016年）转发全国工商联办公厅关于开展2017年引导民营转发全国工商联办公厅关于组织开展第七次民营转发全国工商联办公厅关于组织开展第.....
+                                </p>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class = "col-md-4 col-lg-4 col-xs-12">
+                <div class = "newsBoxRight">
+                    <div class = "indexTitle">
+                        <h4>
+                            <strong>
+                                <i class="fa fa-shopping-bag" aria-hidden="true" style="color:red;"></i> 商会动态
+                            </strong>
+                        </h4>
+                    </div>
+                    <div class = "slideNotice">
+                        <div class = "bd">
+                            <ul class = "indexNews" style = "margin-bottom:0px;">
+                                <volist name="dongtai" id="dongtai">
+                                    <li>
+                                        <b>{$dongtai.date|substr=5,5}</b><a href = "{$U['Index_dongtaiX']}/id/{$dongtai.id}.html">{$dongtai.name}</a>
+                                    </li>
+                                </volist>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<!--这里是新闻轮播图片-->
+<div class="section">
+    <div class="container">
+        <div class="row">
+            <div class = "col-md-4 no-padding">
+                <img src = "__PUBLIC__/images/21.jpg" style="width: 100%;">
+            </div>
+            <div class = "col-md-4 no-padding">
+                <img src = "__PUBLIC__/images/22.jpg" style="width: 100%;">
+            </div>
+            <div class = "col-md-4 no-padding">
+                <img src = "__PUBLIC__/images/23.jpg" style="width: 100%;">
+            </div>
+        </div>
+        <div class="row">
+            <div class = "col-md-3 no-padding hidden-xs">
+                <img src = "__PUBLIC__/images/20170112110448_843.jpg" style="width: 100%;" width="100%"/>
+            </div>
+            <div class = "col-md-3  no-padding  hidden-xs">
+                <img src = "__PUBLIC__/images/20170112110448_843.jpg" style="width: 100%;"/>
+            </div>
+            <div class = "col-md-3  no-padding  hidden-xs">
+                <img src = "__PUBLIC__/images/20170112110448_843.jpg" style="width: 100%;"/>
+            </div>
+            <div class = "col-md-3  no-padding  hidden-xs">
+                <img src = "__PUBLIC__/images/20170112110448_843.jpg" style="width: 100%;"/>
+            </div>
+        </div>
+    </div>
+</div>
+<!--这是本页第三个模块的内容，里面是两行装饰图片，放在了一个row类 的容器中-->
+<div class="section">
+    <div class="container">
+        <div class="row">
+            <div class = "col-md-4 col-xs-12 col-lg-4">
+                <img src = "__PUBLIC__/images/erweima.jpg" style = "width:100%;height:260px;margin-top:50px;"/>
+            </div>
+            <div class = "col-md-4 col-md-4 col-xs-12">
+                <div class = "newsBoxRight">
+                    <div class = "indexTitle">
+                        <h4>
+                            <strong>
+                                <i class="fa fa-file-text-o" aria-hidden="true" style="color:red;"></i>&nbsp;商会公告
+                            </strong>
+                        </h4>
+                    </div>
+                    <div class = "slideNotice">
+                        <div class = "bd">
+                            <ul class = "indexNews">
+                                <volist name="gonggao" id="gonggao">
+                                    <li>
+                                        <b>{$gonggao.date|substr=5,5}</b><a href = "{$U['Index_content']}/id/{$gonggao.id}.html">{$gonggao.name}</a>
+                                    </li>
+                                </volist>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class = "col-md-4 col-lg-4 col-xs-12">
+                <div class = "newsBoxRight">
+                    <div class = "indexTitle">
+                        <h4>
+                            <strong><i class="fa fa-user-circle" aria-hidden="true" style="color:red;"></i>&nbsp;商会会员</strong>
+                        </h4>
+                    </div>
+                    <div class = "slideNotice">
+                        <div class = "bd">
+                            <ul class = "indexNews">
+                                <volist name="huiyuan" id="huiyuan">
+                                    <li>
+                                        <b>{$huiyuan.date|substr=5,5}</b><a href = "{$U['Index_insider_cont']}/id/{$huiyuan.id}.html">{$huiyuan.name}</a>
+                                    </li>
+                                </volist>
+                            </ul>
+                        </div>
+                    </div>
+                    <script type = "text/javascript">jQuery(".slideNotice").slide();</script>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<!--让内容，和底部footer空出一点距离-->
+<div style="height:15px; width:100%;"></div>

@@ -1,0 +1,2986 @@
+[ 2017-03-24T11:25:48+08:00 ] ::1 /mmsh/index.php/Home/Index/dongtai
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000037s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004004s ]
+
+[ 2017-03-24T11:25:53+08:00 ] ::1 /mmsh/index.php/Home/Index/insider
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000363s ]
+
+[ 2017-03-24T11:25:54+08:00 ] ::1 /mmsh/index.php/Home/Index/insider
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000364s ]
+
+[ 2017-03-24T12:14:05+08:00 ] ::1 /mmsh/index.php/Home/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000379s ]
+
+[ 2017-03-24T12:14:38+08:00 ] ::1 /mmsh/index.php/Home/Index/contact
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000354s ]
+
+[ 2017-03-24T12:14:40+08:00 ] ::1 /mmsh/index.php/Home/Index/gonggao
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000352s ]
+
+[ 2017-03-24T12:14:44+08:00 ] ::1 /mmsh/index.php/Home/Index/dongtai
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000356s ]
+
+[ 2017-03-24T12:14:48+08:00 ] ::1 /mmsh/index.php/Home/Index/dongtai/id/7
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000370s ]
+
+[ 2017-03-24T12:14:50+08:00 ] ::1 /mmsh/index.php/Home/Index/dongtai/id/7/p/2.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000585s ]
+
+[ 2017-03-24T12:14:53+08:00 ] ::1 /mmsh/index.php/Home/Index/dongtai/id/7/p/1.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000357s ]
+
+[ 2017-03-24T12:22:34+08:00 ] ::1 /mmsh/index.php/Home/Index/dongtaiX
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000345s ]
+
+[ 2017-03-24T12:23:25+08:00 ] ::1 /mmsh/index.php/Home/Index/dongtaiX
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000379s ]
+
+[ 2017-03-24T12:23:59+08:00 ] ::1 /mmsh/index.php/Home/Index/dongtaiX
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000359s ]
+
+[ 2017-03-24T12:24:01+08:00 ] ::1 /mmsh/index.php/Home/Index/dongtaiX
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000348s ]
+
+[ 2017-03-24T12:24:39+08:00 ] ::1 /mmsh/index.php/Home/Index/dongtaiX
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000583s ]
+
+[ 2017-03-24T12:24:52+08:00 ] ::1 /mmsh/index.php/Home/Index/dongtaiX
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000320s ]
+
+[ 2017-03-24T12:25:43+08:00 ] ::1 /mmsh/index.php/Home/Index/dongtaiX
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000468s ]
+
+[ 2017-03-24T12:26:04+08:00 ] ::1 /mmsh/index.php/Home/Index/dongtai
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000358s ]
+
+[ 2017-03-24T12:26:05+08:00 ] ::1 /mmsh/index.php/Home/Index/dongtaiX/id42
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000366s ]
+
+[ 2017-03-24T12:26:26+08:00 ] ::1 /mmsh/index.php/Home/Index/dongtaiX/id42
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000359s ]
+
+[ 2017-03-24T12:26:29+08:00 ] ::1 /mmsh/index.php/Home/Index/dongtaiX/id/42
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000312s ]
+
+[ 2017-03-24T12:26:45+08:00 ] ::1 /mmsh/index.php/Home/Index/dongtaiX/id/42
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000335s ]
+
+[ 2017-03-24T12:27:28+08:00 ] ::1 /mmsh/index.php/Home/Index/dongtaiX/id/42
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000545s ]
+
+[ 2017-03-24T12:27:44+08:00 ] ::1 /mmsh/index.php/Home/Index/dongtaiX/id/42
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000533s ]
+
+[ 2017-03-24T12:28:03+08:00 ] ::1 /mmsh/index.php/Home/Index/dongtaiX/id/42
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000444s ]
+
+[ 2017-03-24T12:28:12+08:00 ] ::1 /mmsh/index.php/Home/Index/dongtaiX/id/42
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000422s ]
+
+[ 2017-03-24T12:28:35+08:00 ] ::1 /mmsh/index.php/Home/Index/dongtaiX/id/42
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000280s ]
+
+[ 2017-03-24T12:28:53+08:00 ] ::1 /mmsh/index.php/Home/Index/dongtaiX/id/42
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000362s ]
+
+[ 2017-03-24T12:29:18+08:00 ] ::1 /mmsh/index.php/Home/Index/dongtaiX/id/42
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000376s ]
+
+[ 2017-03-24T12:29:25+08:00 ] ::1 /mmsh/index.php/Home/Index/dongtaiX/id/42
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000321s ]
+
+[ 2017-03-24T12:30:21+08:00 ] ::1 /mmsh/index.php/Home/Index/dongtaiX/id/42
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000346s ]
+
+[ 2017-03-24T12:31:54+08:00 ] ::1 /mmsh/index.php/Home/Index/dongtaiX/id/42
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000540s ]
+
+[ 2017-03-24T12:32:05+08:00 ] ::1 /mmsh/index.php/Home/Index/dongtaiX/id/42
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000368s ]
+
+[ 2017-03-24T12:32:47+08:00 ] ::1 /mmsh/index.php/Home/Index/dongtaiX/id/42
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000351s ]
+
+[ 2017-03-24T12:32:52+08:00 ] ::1 /mmsh/index.php/Home/Index/dongtai
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000357s ]
+
+[ 2017-03-24T12:32:56+08:00 ] ::1 /mmsh/index.php/Home/Index/dongtaiX/id/37
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000366s ]
+
+[ 2017-03-24T12:33:06+08:00 ] ::1 /mmsh/index.php/Home/Index/dongtaiX/id/37
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000499s ]
+
+[ 2017-03-24T12:33:17+08:00 ] ::1 /mmsh/index.php/Home/Index/dongtai
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000332s ]
+
+[ 2017-03-24T12:33:19+08:00 ] ::1 /mmsh/index.php/Home/Index/dongtai/id/7
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000356s ]
+
+[ 2017-03-24T12:33:21+08:00 ] ::1 /mmsh/index.php/Home/Index/dongtaiX/id/43
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000361s ]
+
+[ 2017-03-24T12:33:53+08:00 ] ::1 /mmsh/index.php/Home/Index/dongtaiX/id/43
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000281s ]
+
+[ 2017-03-24T12:34:15+08:00 ] ::1 /mmsh/index.php/Home/Index/dongtai
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000379s ]
+
+[ 2017-03-24T12:34:58+08:00 ] ::1 /mmsh/index.php/Home/Index/dongtaiX/id/37
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000363s ]
+
+[ 2017-03-24T12:35:16+08:00 ] ::1 /mmsh/index.php/Home/Index/dongtaiX/id/37
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000353s ]
+
+[ 2017-03-24T12:35:18+08:00 ] ::1 /mmsh/index.php/Home/Index/dongtai/id/7
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000374s ]
+
+[ 2017-03-24T12:35:21+08:00 ] ::1 /mmsh/index.php/Home/Index/dongtai/id/8
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000369s ]
+
+[ 2017-03-24T12:35:23+08:00 ] ::1 /mmsh/index.php/Home/Index/dongtaiX/id/44
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000358s ]
+
+[ 2017-03-24T12:35:27+08:00 ] ::1 /mmsh/index.php/Home/Index/dongtai/id/7
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000357s ]
+
+[ 2017-03-24T12:35:29+08:00 ] ::1 /mmsh/index.php/Home/Index/dongtaiX/id/29
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000317s ]
+
+[ 2017-03-24T12:36:18+08:00 ] ::1 /mmsh/index.php/Home/Index/dongtaiX/id/29
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000355s ]
+
+[ 2017-03-24T12:37:05+08:00 ] ::1 /mmsh/index.php/Home/Index/dongtaiX/id/29
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000520s ]
+
+[ 2017-03-24T12:37:46+08:00 ] ::1 /mmsh/index.php/Home/Index/dongtaiX/id/29
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000353s ]
+
+[ 2017-03-24T12:38:08+08:00 ] ::1 /mmsh/index.php/Home/Index/dongtaiX/id/29
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000361s ]
+
+[ 2017-03-24T12:38:53+08:00 ] ::1 /mmsh/index.php/Home/Index/dongtaiX/id/29
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000511s ]
+
+[ 2017-03-24T12:40:20+08:00 ] ::1 /mmsh/index.php/Home/Index/dongtaiX/id/29
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000344s ]
+
+[ 2017-03-24T12:41:10+08:00 ] ::1 /mmsh/index.php/Home/Index/dongtaiX/id/29
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000356s ]
+
+[ 2017-03-24T12:41:15+08:00 ] ::1 /mmsh/index.php/Home/Index/dongtai/id/8
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000326s ]
+
+[ 2017-03-24T12:41:17+08:00 ] ::1 /mmsh/index.php/Home/Index/dongtaiX/id/44
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000360s ]
+
+[ 2017-03-24T12:41:35+08:00 ] ::1 /mmsh/index.php/Home/Index/dongtai/id/7
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000358s ]
+
+[ 2017-03-24T12:41:36+08:00 ] ::1 /mmsh/index.php/Home/Index/dongtaiX/id/30
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000362s ]
+
+[ 2017-03-24T12:42:08+08:00 ] ::1 /mmsh/index.php/Home/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000353s ]
+
+[ 2017-03-24T12:42:09+08:00 ] ::1 /mmsh/index.php/Home/Index/info
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000357s ]
+
+[ 2017-03-24T12:42:11+08:00 ] ::1 /mmsh/index.php/Home/Index/insider
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000362s ]
+
+[ 2017-03-24T12:42:13+08:00 ] ::1 /mmsh/index.php/Home/Index/dongtai
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000393s ]
+
+[ 2017-03-24T12:42:14+08:00 ] ::1 /mmsh/index.php/Home/Index/insider
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000393s ]
+
+[ 2017-03-24T12:42:29+08:00 ] ::1 /mmsh/index.php/Home/Index/insider
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000307s ]
+
+[ 2017-03-24T12:42:45+08:00 ] ::1 /mmsh/index.php/Home/Index/insider_cont
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000358s ]
+
+[ 2017-03-24T12:45:18+08:00 ] ::1 /mmsh/index.php/Home/Index/insider_cont
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000485s ]
+
+[ 2017-03-24T12:45:20+08:00 ] ::1 /mmsh/index.php/Home/Index/insider_cont
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000354s ]
+
+[ 2017-03-24T12:45:43+08:00 ] ::1 /mmsh/index.php/Home/Index/insider
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000279s ]
+
+[ 2017-03-24T12:46:01+08:00 ] ::1 /mmsh/index.php/Home/Index/insider
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000357s ]
+
+[ 2017-03-24T12:46:05+08:00 ] ::1 /mmsh/index.php/Home/Index/insider/id/4
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000348s ]
+
+[ 2017-03-24T12:46:09+08:00 ] ::1 /mmsh/index.php/Home/Index/insider/id/3
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000295s ]
+
+[ 2017-03-24T12:46:45+08:00 ] ::1 /mmsh/index.php/Home/Index/insider/id/3
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000362s ]
+
+[ 2017-03-24T12:47:33+08:00 ] ::1 /mmsh/index.php/Home/Index/insider/id/3
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000374s ]
+
+[ 2017-03-24T12:47:53+08:00 ] ::1 /mmsh/index.php/Home/Index/insider/id/3
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000384s ]
+
+[ 2017-03-24T12:48:00+08:00 ] ::1 /mmsh/index.php/Home/Index/dongtai
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000406s ]
+
+[ 2017-03-24T12:48:27+08:00 ] ::1 /mmsh/index.php/Home/Index/dongtai/id/7
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000407s ]
+
+[ 2017-03-24T12:54:54+08:00 ] ::1 /mmsh/index.php/Home/Index/dongtai/id/7/p/2.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000382s ]
+
+[ 2017-03-24T12:55:00+08:00 ] ::1 /mmsh/index.php/Home/Index/dongtai/id/7/p/1.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000362s ]
+
+[ 2017-03-24T12:55:04+08:00 ] ::1 /mmsh/index.php/Home/Index/dongtai/id/7/p/2.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000356s ]
+
+[ 2017-03-24T12:55:07+08:00 ] ::1 /mmsh/index.php/Home/Index/dongtai/id/7/p/1.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000338s ]
+
+[ 2017-03-24T12:55:11+08:00 ] ::1 /mmsh/index.php/Home/Index/dongtai/id/2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000355s ]
+
+[ 2017-03-24T12:55:13+08:00 ] ::1 /mmsh/index.php/Home/Index/dongtai/id/7
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000361s ]
+
+[ 2017-03-24T12:55:16+08:00 ] ::1 /mmsh/index.php/Home/Index/dongtai/id/7/p/2.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000381s ]
+
+[ 2017-03-24T12:55:27+08:00 ] ::1 /mmsh/index.php/Home/Index/dongtai/id/7/p/1.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000391s ]
+
+[ 2017-03-24T12:55:38+08:00 ] ::1 /mmsh/index.php/Home/Index/dongtai/id/7/p/2.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000346s ]
+
+[ 2017-03-24T12:55:43+08:00 ] ::1 /mmsh/index.php/Home/Index/dongtaiX/id/38
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000545s ]
+
+[ 2017-03-24T12:55:45+08:00 ] ::1 /mmsh/index.php/Home/Index/dongtai/id/7
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000354s ]
+
+[ 2017-03-24T12:56:53+08:00 ] ::1 /mmsh/index.php/Home/Index/dongtai
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000365s ]
+
+[ 2017-03-24T12:56:56+08:00 ] ::1 /mmsh/index.php/Home/Index/dongtai/id/8
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000404s ]
+
+[ 2017-03-24T12:56:57+08:00 ] ::1 /mmsh/index.php/Home/Index/dongtai/id/7
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000361s ]
+
+[ 2017-03-24T12:56:59+08:00 ] ::1 /mmsh/index.php/Home/Index/dongtaiX/id/45
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000335s ]
+
+[ 2017-03-24T12:57:03+08:00 ] ::1 /mmsh/index.php/Home/Index/dongtai/id/7
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000376s ]
+
+[ 2017-03-24T12:57:06+08:00 ] ::1 /mmsh/index.php/Home/Index/dongtai/id/7/p/2.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000422s ]
+
+[ 2017-03-24T12:57:26+08:00 ] ::1 /mmsh/index.php/Home/Index/dongtai/id/7/p/2.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000404s ]
+
+[ 2017-03-24T12:57:29+08:00 ] ::1 /mmsh/index.php/Home/Index/dongtai/id/7/p/3.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000353s ]
+
+[ 2017-03-24T13:00:30+08:00 ] ::1 /mmsh/index.php/Home/Index/dongtai/id/7/p/3.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000592s ]
+
+[ 2017-03-24T13:00:32+08:00 ] ::1 /mmsh/index.php/Home/Index/dongtai/id/7
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000368s ]
+
+[ 2017-03-24T13:00:35+08:00 ] ::1 /mmsh/index.php/Home/Index/dongtai/id/7/p/2.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000288s ]
+
+[ 2017-03-24T13:00:53+08:00 ] ::1 /mmsh/index.php/Home/Index/dongtai/id/7/p/2.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000277s ]
+
+[ 2017-03-24T13:00:55+08:00 ] ::1 /mmsh/index.php/Home/Index/dongtai/id/7/p/3.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000363s ]
+
+[ 2017-03-24T13:01:00+08:00 ] ::1 /mmsh/index.php/Home/Index/dongtai/id/7/p/2.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000377s ]
+
+[ 2017-03-24T13:01:09+08:00 ] ::1 /mmsh/index.php/Home/Index/dongtai/id/7/p/2.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000356s ]
+
+[ 2017-03-24T13:01:12+08:00 ] ::1 /mmsh/index.php/Home/Index/dongtai/id/7/p/1.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000379s ]
+
+[ 2017-03-24T13:01:32+08:00 ] ::1 /mmsh/index.php/Home/Index/dongtai/id/7/p/1.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000596s ]
+
+[ 2017-03-24T13:01:39+08:00 ] ::1 /mmsh/index.php/Home/Index/dongtai/id/7/p/1.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000720s ]
+
+[ 2017-03-24T13:02:22+08:00 ] ::1 /mmsh/index.php/Home/Index/dongtai/id/7/p/1.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000323s ]
+
+[ 2017-03-24T13:02:30+08:00 ] ::1 /mmsh/index.php/Home/Index/dongtai/id/7/p/1.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000360s ]
+
+[ 2017-03-24T13:02:40+08:00 ] ::1 /mmsh/index.php/Home/Index/dongtai/id/7/p/1.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000723s ]
+
+[ 2017-03-24T13:02:58+08:00 ] ::1 /mmsh/index.php/Home/Index/insider
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000366s ]
+
+[ 2017-03-24T13:03:02+08:00 ] ::1 /mmsh/index.php/Home/Index/gonggao
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000337s ]
+
+[ 2017-03-24T13:08:44+08:00 ] ::1 /mmsh/index.php/Home/Index/gonggao
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000377s ]
+
+[ 2017-03-24T13:08:46+08:00 ] ::1 /mmsh/index.php/Home/Index/dongtai
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000293s ]
+
+[ 2017-03-24T13:08:50+08:00 ] ::1 /mmsh/index.php/Home/Index/dongtai
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000358s ]
+
+[ 2017-03-24T13:08:52+08:00 ] ::1 /mmsh/index.php/Home/Index/dongtai/id/7
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000358s ]
+
+[ 2017-03-24T13:09:19+08:00 ] ::1 /mmsh/index.php/Home/Index/dongtai/id/7
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000347s ]
+
+[ 2017-03-24T13:09:21+08:00 ] ::1 /mmsh/index.php/Home/Index/dongtai/id/7/p/2.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000366s ]
+
+[ 2017-03-24T13:09:41+08:00 ] ::1 /mmsh/index.php/Home/Index/gonggao
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000366s ]
+
+[ 2017-03-24T13:10:52+08:00 ] ::1 /mmsh/index.php/Home/Index/gonggao
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000381s ]
+
+[ 2017-03-24T13:10:55+08:00 ] ::1 /mmsh/index.php/Home/Index/dongtai
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000360s ]
+
+[ 2017-03-24T13:10:57+08:00 ] ::1 /mmsh/index.php/Home/Index/dongtai/id/7
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000431s ]
+
+[ 2017-03-24T13:11:00+08:00 ] ::1 /mmsh/index.php/Home/Index/dongtai/id/7
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000358s ]
+
+[ 2017-03-24T13:11:16+08:00 ] ::1 /mmsh/index.php/Home/Index/dongtai/id/7
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000361s ]
+
+[ 2017-03-24T13:11:18+08:00 ] ::1 /mmsh/index.php/Home/Index/dongtai/id/7
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000322s ]
+
+[ 2017-03-24T13:13:02+08:00 ] ::1 /mmsh/index.php/Home/Index/dongtai/id/7
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000041s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000826s ]
+
+[ 2017-03-24T13:13:16+08:00 ] ::1 /mmsh/index.php/Home/Index/gonggao
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000339s ]
+
+[ 2017-03-24T13:13:19+08:00 ] ::1 /mmsh/index.php/Home/Index/dongtai
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000363s ]
+
+[ 2017-03-24T13:13:21+08:00 ] ::1 /mmsh/index.php/Home/Index/gonggao
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000327s ]
+
+[ 2017-03-24T13:13:49+08:00 ] ::1 /mmsh/index.php/Home/Index/dongtai/id/7
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000373s ]
+
+[ 2017-03-24T13:14:23+08:00 ] ::1 /mmsh/index.php/Home/Index/dongtaiX/id/28
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000427s ]
+
+[ 2017-03-24T13:14:40+08:00 ] ::1 /mmsh/index.php/Home/Index/dongtaiX/id/28
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000310s ]
+
+[ 2017-03-24T13:15:36+08:00 ] ::1 /mmsh/index.php/Home/Index/dongtai/id/7
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000506s ]
+
+[ 2017-03-24T13:15:38+08:00 ] ::1 /mmsh/index.php/Home/Index/dongtai/id/7/p/2.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000366s ]
+
+[ 2017-03-24T13:16:16+08:00 ] ::1 /mmsh/index.php/Home/Index/dongtai/id/7/p/2.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000541s ]
+
+[ 2017-03-24T13:16:36+08:00 ] ::1 /mmsh/index.php/Home/Index/dongtai/id/7/p/2.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000544s ]
+
+[ 2017-03-24T13:16:53+08:00 ] ::1 /mmsh/index.php/Home/Index/dongtai/id/7/p/2.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000300s ]
+
+[ 2017-03-24T13:17:37+08:00 ] ::1 /mmsh/index.php/Home/Index/dongtai/id/7/p/2.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000427s ]
+
+[ 2017-03-24T13:18:00+08:00 ] ::1 /mmsh/index.php/Home/Index/dongtai/id/7/p/2.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000363s ]
+
+[ 2017-03-24T13:18:02+08:00 ] ::1 /mmsh/index.php/Home/Index/dongtai/id/7/p/1.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000367s ]
+
+[ 2017-03-24T13:18:25+08:00 ] ::1 /mmsh/index.php/Home/Index/dongtai/id/7/p/1.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000382s ]
+
+[ 2017-03-24T13:18:54+08:00 ] ::1 /mmsh/index.php/Home/Index/dongtai/id/7/p/1.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000357s ]
+
+[ 2017-03-24T13:18:57+08:00 ] ::1 /mmsh/index.php/Home/Index/dongtai/id/7/p/2.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000380s ]
+
+[ 2017-03-24T13:18:59+08:00 ] ::1 /mmsh/index.php/Home/Index/dongtai/id/7/p/1.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000358s ]
+
+[ 2017-03-24T13:19:02+08:00 ] ::1 /mmsh/index.php/Home/Index/dongtai/id/7/p/2.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000338s ]
+
+[ 2017-03-24T13:19:06+08:00 ] ::1 /mmsh/index.php/Home/Index/dongtai/id/7/p/1.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000416s ]
+
+[ 2017-03-24T13:20:40+08:00 ] ::1 /mmsh/index.php/Home/Index/dongtai/id/7/p/1.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000585s ]
+
+[ 2017-03-24T13:20:42+08:00 ] ::1 /mmsh/index.php/Home/Index/dongtai/id/7/p/2.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000391s ]
+
+[ 2017-03-24T13:21:00+08:00 ] ::1 /mmsh/index.php/Home/Index/dongtai/id/7/p/2.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000357s ]
+
+[ 2017-03-24T13:21:03+08:00 ] ::1 /mmsh/index.php/Home/Index/dongtai/id/7/p/1.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000297s ]
+
+[ 2017-03-24T13:21:23+08:00 ] ::1 /mmsh/index.php/Home/Index/dongtai/id/7/p/1.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000289s ]
+
+[ 2017-03-24T13:21:45+08:00 ] ::1 /mmsh/index.php/Home/Index/dongtaiX/id/27
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000423s ]
+
+[ 2017-03-24T13:21:47+08:00 ] ::1 /mmsh/index.php/Home/Index/dongtai/id/2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000377s ]
+
+[ 2017-03-24T13:21:49+08:00 ] ::1 /mmsh/index.php/Home/Index/dongtai/id/7
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000394s ]
+
+[ 2017-03-24T13:22:37+08:00 ] ::1 /mmsh/index.php/Home/Index/dongtaiX/id/38
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000429s ]
+
+[ 2017-03-24T13:22:52+08:00 ] ::1 /mmsh/index.php/Home/Index/dongtai/id/7
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000373s ]
+
+[ 2017-03-24T13:23:16+08:00 ] ::1 /mmsh/index.php/Home/Index/dongtai/id/7
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000287s ]
+
+[ 2017-03-24T13:23:44+08:00 ] ::1 /mmsh/index.php/Home/Index/dongtai/id/7/p/2.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000295s ]
+
+[ 2017-03-24T13:24:30+08:00 ] ::1 /mmsh/index.php/Home/Index/dongtai/id/7/p/2.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000279s ]
+
+[ 2017-03-24T13:25:41+08:00 ] ::1 /mmsh/index.php/Home/Index/dongtai/id/7/p/2.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000511s ]
+
+[ 2017-03-24T13:26:51+08:00 ] ::1 /mmsh/index.php/Home/Index/dongtai/id/7/p/2.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000426s ]
+
+[ 2017-03-24T13:27:29+08:00 ] ::1 /mmsh/index.php/Home/Index/dongtai/id/7/p/2.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000383s ]
+
+[ 2017-03-24T13:27:53+08:00 ] ::1 /mmsh/index.php/Home/Index/dongtai/id/7/p/2.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000378s ]
+
+[ 2017-03-24T13:28:32+08:00 ] ::1 /mmsh/index.php/Home/Index/dongtai/id/7/p/2.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000344s ]
+
+[ 2017-03-24T13:28:56+08:00 ] ::1 /mmsh/index.php/Home/Index/dongtai/id/7/p/2.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000635s ]
+
+[ 2017-03-24T13:29:06+08:00 ] ::1 /mmsh/index.php/Home/Index/dongtai/id/7/p/2.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000038s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000587s ]
+
+[ 2017-03-24T13:30:39+08:00 ] ::1 /mmsh/index.php/Home/Index/dongtai/id/7/p/2.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000666s ]
+
+[ 2017-03-24T13:32:23+08:00 ] ::1 /mmsh/index.php/Home/Index/dongtai/id/7/p/2.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000377s ]
+
+[ 2017-03-24T13:33:32+08:00 ] ::1 /mmsh/index.php/Home/Index/gonggao
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000609s ]
+
+[ 2017-03-24T13:33:41+08:00 ] ::1 /mmsh/index.php/Home/Index/gonggao
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000358s ]
+
+[ 2017-03-24T13:33:45+08:00 ] ::1 /mmsh/index.php/Home/Index/gonggao
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000091s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000524s ]
+
+[ 2017-03-24T13:33:56+08:00 ] ::1 /mmsh/index.php/Home/Index/dongtai/id/7/p/2.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000434s ]
+
+[ 2017-03-24T13:34:05+08:00 ] ::1 /mmsh/index.php/Home/Index/gonggao
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000459s ]
+
+[ 2017-03-24T13:34:10+08:00 ] ::1 /mmsh/index.php/Home/Index/gonggao
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000358s ]
+
+[ 2017-03-24T13:34:25+08:00 ] ::1 /mmsh/index.php/Home/Index/gonggao
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000305s ]
+
+[ 2017-03-24T13:34:46+08:00 ] ::1 /mmsh/index.php/Home/Index/gonggao
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000503s ]
+
+[ 2017-03-24T13:34:47+08:00 ] ::1 /mmsh/index.php/Home/Index/dongtai/id/7/p/2.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000477s ]
+
+[ 2017-03-24T13:35:21+08:00 ] ::1 /mmsh/index.php/Home/Index/dongtai/id/7/p/1.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000290s ]
+
+[ 2017-03-24T13:37:14+08:00 ] ::1 /mmsh/index.php/Home/Index/dongtai/id/7/p/2.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000310s ]
+
+[ 2017-03-24T13:37:16+08:00 ] ::1 /mmsh/index.php/Home/Index/dongtai/id/7/p/1.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000382s ]
+
+[ 2017-03-24T13:40:56+08:00 ] ::1 /mmsh/index.php/Home/Index/gonggao
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000384s ]
+
+[ 2017-03-24T13:40:59+08:00 ] ::1 /mmsh/index.php/Home/Index/dongtai/id/7/p/1.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000297s ]
+
+[ 2017-03-24T13:41:11+08:00 ] ::1 /mmsh/index.php/Home/Index/dongtai/id/7/p/2.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000276s ]
+
+[ 2017-03-24T13:41:13+08:00 ] ::1 /mmsh/index.php/Home/Index/dongtai/id/7/p/1.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000298s ]
+
+[ 2017-03-24T13:41:15+08:00 ] ::1 /mmsh/index.php/Home/Index/dongtai/id/7/p/2.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000367s ]
+
+[ 2017-03-24T15:57:31+08:00 ] ::1 /mmsh/index.php/Home/Index/dongtai/id/7/p/2.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000349s ]
+
+[ 2017-03-24T15:57:32+08:00 ] ::1 /mmsh/index.php/Home/Index/dongtai/id/7/p/2.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000364s ]
+
+[ 2017-03-24T15:57:36+08:00 ] ::1 /mmsh/index.php/Home/Index/dongtai/id/7/p/2.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000757s ]
+
+[ 2017-03-24T15:57:37+08:00 ] ::1 /mmsh/index.php/Home/Index/dongtai/id/7/p/2.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000277s ]
+
+[ 2017-03-24T15:57:37+08:00 ] ::1 /mmsh/index.php/Home/Index/dongtai/id/7/p/2.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000294s ]
+
+[ 2017-03-24T15:57:37+08:00 ] ::1 /mmsh/index.php/Home/Index/dongtai/id/7/p/2.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000324s ]
+
+[ 2017-03-24T15:57:37+08:00 ] ::1 /mmsh/index.php/Home/Index/dongtai/id/7/p/2.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000291s ]
+
+[ 2017-03-24T15:57:38+08:00 ] ::1 /mmsh/index.php/Home/Index/dongtai/id/7/p/2.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000651s ]
+
+[ 2017-03-24T15:57:45+08:00 ] ::1 /mmsh/index.php/Home/Index/dongtai/id/7/p/2.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000367s ]
+
+[ 2017-03-24T15:57:52+08:00 ] ::1 /mmsh/index.php/Home/Index/dongtai/id/7/p/1.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000359s ]
+
+[ 2017-03-24T15:57:59+08:00 ] ::1 /mmsh/index.php/Home/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000357s ]
+
+[ 2017-03-24T15:58:37+08:00 ] ::1 /mmsh/index.php/Home/Index/contact
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000300s ]
+
+[ 2017-03-24T15:58:38+08:00 ] ::1 /mmsh/index.php/Home/Index/info
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000357s ]
+
+[ 2017-03-24T15:58:39+08:00 ] ::1 /mmsh/index.php/Home/Index/insider
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000357s ]
+
+[ 2017-03-24T15:58:40+08:00 ] ::1 /mmsh/index.php/Home/Index/dongtai
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000339s ]
+
+[ 2017-03-24T15:58:41+08:00 ] ::1 /mmsh/index.php/Home/Index/insider
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000361s ]
+
+[ 2017-03-24T15:58:43+08:00 ] ::1 /mmsh/index.php/Home/Index/insider/id/4
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000349s ]
+
+[ 2017-03-24T16:02:10+08:00 ] ::1 /mmsh/index.php/Home/Index/insider/id/4
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000350s ]
+
+[ 2017-03-24T16:02:12+08:00 ] ::1 /mmsh/index.php/Home/Index/insider/id/3
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000359s ]
+
+[ 2017-03-24T16:02:14+08:00 ] ::1 /mmsh/index.php/Home/Index/insider/id/4
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000309s ]
+
+[ 2017-03-24T16:02:27+08:00 ] ::1 /mmsh/index.php/Home/Index/insider
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000302s ]
+
+[ 2017-03-24T16:04:25+08:00 ] ::1 /mmsh/index.php/Home/Index/insider
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000303s ]
+
+[ 2017-03-24T16:05:19+08:00 ] ::1 /mmsh/index.php/Home/Index/insider
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000289s ]
+
+[ 2017-03-24T16:05:20+08:00 ] ::1 /mmsh/index.php/Home/Index/insider
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000336s ]
+
+[ 2017-03-24T16:05:34+08:00 ] ::1 /mmsh/index.php/Home/Index/insider
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000414s ]
+
+[ 2017-03-24T16:05:35+08:00 ] ::1 /mmsh/index.php/Home/Index/insider/id/4
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000322s ]
+
+[ 2017-03-24T16:06:02+08:00 ] ::1 /mmsh/index.php/Home/Index/insider/id/4
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000354s ]
+
+[ 2017-03-24T16:06:04+08:00 ] ::1 /mmsh/index.php/Home/Index/insider/id/4
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000378s ]
+
+[ 2017-03-24T16:06:05+08:00 ] ::1 /mmsh/index.php/Home/Index/insider/id/4
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000348s ]
+
+[ 2017-03-24T16:06:12+08:00 ] ::1 /mmsh/index.php/Home/Index/insider/id/4
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000348s ]
+
+[ 2017-03-24T16:07:02+08:00 ] ::1 /mmsh/index.php/Home/Index/insider/id/4
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000534s ]
+
+[ 2017-03-24T16:07:16+08:00 ] ::1 /mmsh/index.php/Home/Index/insider/id/4
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000293s ]
+
+[ 2017-03-24T16:07:24+08:00 ] ::1 /mmsh/index.php/Home/Index/insider/id/4
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000332s ]
+
+[ 2017-03-24T16:07:25+08:00 ] ::1 /mmsh/index.php/Home/Index/insider/id/3
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000327s ]
+
+[ 2017-03-24T16:08:24+08:00 ] ::1 /mmsh/index.php/Home/Index/insider/id/3
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000346s ]
+
+[ 2017-03-24T16:08:25+08:00 ] ::1 /mmsh/index.php/Home/Index/insider/id/4
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000365s ]
+
+[ 2017-03-24T16:08:56+08:00 ] ::1 /mmsh/index.php/Home/Index/insider/id/3
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000375s ]
+
+[ 2017-03-24T16:08:57+08:00 ] ::1 /mmsh/index.php/Home/Index/insider/id/4
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000339s ]
+
+[ 2017-03-24T16:08:59+08:00 ] ::1 /mmsh/index.php/Home/Index/insider/id/3
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000383s ]
+
+[ 2017-03-24T16:09:34+08:00 ] ::1 /mmsh/index.php/Home/Index/insider/id/3
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000358s ]
+ERR: 1054:Unknown column 'date' in 'field list'
+ [ SQL语句 ] : SELECT `id`,`name`,`seq`,`date` FROM `insider` WHERE ( typeid = 3 ) ORDER BY seq desc,date desc 
+
+[ 2017-03-24T16:11:21+08:00 ] ::1 /mmsh/index.php/Home/Index/insider/id/4
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000315s ]
+
+[ 2017-03-24T16:11:23+08:00 ] ::1 /mmsh/index.php/Home/Index/insider_cont/id/2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000347s ]
+
+[ 2017-03-24T16:11:26+08:00 ] ::1 /mmsh/index.php/Home/Index/insider/id/3
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000366s ]
+
+[ 2017-03-24T16:11:27+08:00 ] ::1 /mmsh/index.php/Home/Index/insider_cont/id/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000315s ]
+
+[ 2017-03-24T16:13:29+08:00 ] ::1 /mmsh/index.php/Home/Index/insider/id/3
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000393s ]
+
+[ 2017-03-24T16:13:32+08:00 ] ::1 /mmsh/index.php/Home/Index/insider_cont/id/4
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000355s ]
+
+[ 2017-03-24T16:13:35+08:00 ] ::1 /mmsh/index.php/Home/Index/insider
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000427s ]
+
+[ 2017-03-24T16:13:38+08:00 ] ::1 /mmsh/index.php/Home/Index/insider_cont/id/4
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000335s ]
+
+[ 2017-03-24T16:14:20+08:00 ] ::1 /mmsh/index.php/Home/Index/dongtai
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000321s ]
+
+[ 2017-03-24T16:14:22+08:00 ] ::1 /mmsh/index.php/Home/Index/dongtai/id/7
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000288s ]
+
+[ 2017-03-24T16:15:03+08:00 ] ::1 /mmsh/index.php/Home/Index/dongtai/id/7
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000362s ]
+
+[ 2017-03-24T16:15:24+08:00 ] ::1 /mmsh/index.php/Home/Index/dongtai/id/7
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000268s ]
+
+[ 2017-03-24T16:15:25+08:00 ] ::1 /mmsh/index.php/Home/Index/dongtai/id/7
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000309s ]
+
+[ 2017-03-24T16:15:30+08:00 ] ::1 /mmsh/index.php/Home/Index/dongtai/id/7
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000459s ]
+
+[ 2017-03-24T16:15:34+08:00 ] ::1 /mmsh/index.php/Home/Index/dongtai/id/7
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000376s ]
+
+[ 2017-03-24T16:15:35+08:00 ] ::1 /mmsh/index.php/Home/Index/dongtai/id/7
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000340s ]
+
+[ 2017-03-24T16:15:38+08:00 ] ::1 /mmsh/index.php/Home/Index/dongtai/id/7
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000335s ]
+
+[ 2017-03-24T16:15:47+08:00 ] ::1 /mmsh/index.php/Home/Index/dongtai/id/7
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000462s ]
+
+[ 2017-03-24T16:15:49+08:00 ] ::1 /mmsh/index.php/Home/Index/dongtai/id/7/p/2.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000358s ]
+
+[ 2017-03-24T16:15:51+08:00 ] ::1 /mmsh/index.php/Home/Index/dongtai/id/7/p/1.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000353s ]
+
+[ 2017-03-24T16:16:40+08:00 ] ::1 /mmsh/index.php/Home/Index/insider
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000359s ]
+
+[ 2017-03-24T16:17:16+08:00 ] ::1 /mmsh/index.php/Home/Index/insider
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000363s ]
+
+[ 2017-03-24T16:17:18+08:00 ] ::1 /mmsh/index.php/Home/Index/insider_cont/id/4
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000377s ]
+
+[ 2017-03-24T16:18:07+08:00 ] ::1 /mmsh/index.php/Home/Index/insider_cont/id/4
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000341s ]
+
+[ 2017-03-24T16:18:08+08:00 ] ::1 /mmsh/index.php/Home/Index/insider_cont/id/4
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000350s ]
+
+[ 2017-03-24T16:18:10+08:00 ] ::1 /mmsh/index.php/Home/Index/insider_cont/id/4
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000371s ]
+
+[ 2017-03-24T16:18:30+08:00 ] ::1 /mmsh/index.php/Home/Index/insider_cont/id/4
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000358s ]
+
+[ 2017-03-24T16:18:34+08:00 ] ::1 /mmsh/index.php/Home/Index/insider/id/4
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000362s ]
+
+[ 2017-03-24T16:18:36+08:00 ] ::1 /mmsh/index.php/Home/Index/insider_cont/id/2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000365s ]
+
+[ 2017-03-24T16:21:06+08:00 ] ::1 /mmsh/index.php/Home/Index/insider_cont/id/2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000376s ]
+
+[ 2017-03-24T16:21:31+08:00 ] ::1 /mmsh/index.php/Home/Index/insider_cont/id/2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000301s ]
+
+[ 2017-03-24T16:21:42+08:00 ] ::1 /mmsh/index.php/Home/Index/insider/id/3
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000362s ]
+
+[ 2017-03-24T16:21:45+08:00 ] ::1 /mmsh/index.php/Home/Index/insider_cont/id/3
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000369s ]
+
+[ 2017-03-24T16:21:47+08:00 ] ::1 /mmsh/index.php/Home/Index/insider/id/4
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000361s ]
+
+[ 2017-03-24T16:21:49+08:00 ] ::1 /mmsh/index.php/Home/Index/insider/id/3
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000347s ]
+
+[ 2017-03-24T16:21:50+08:00 ] ::1 /mmsh/index.php/Home/Index/insider_cont/id/4
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000354s ]
+
+[ 2017-03-24T16:22:05+08:00 ] ::1 /mmsh/index.php/Home/Index/dongtai
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000382s ]
+
+[ 2017-03-24T16:22:07+08:00 ] ::1 /mmsh/index.php/Home/Index/dongtaiX/id/42
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000361s ]
+
+[ 2017-03-24T16:22:10+08:00 ] ::1 /mmsh/index.php/Home/Index/dongtai/id/8
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000359s ]
+
+[ 2017-03-24T16:22:27+08:00 ] ::1 /mmsh/index.php/Home/Index/dongtaiX/id/44
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000355s ]
+
+[ 2017-03-24T16:22:33+08:00 ] ::1 /mmsh/index.php/Home/Index/insider
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000418s ]
+
+[ 2017-03-24T16:22:35+08:00 ] ::1 /mmsh/index.php/Home/Index/insider/id/4
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000272s ]
+
+[ 2017-03-24T16:22:37+08:00 ] ::1 /mmsh/index.php/Home/Index/insider_cont/id/2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000411s ]
+
+[ 2017-03-24T16:22:50+08:00 ] ::1 /mmsh/index.php/Home/Index/insider/id/3
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000359s ]
+
+[ 2017-03-24T16:22:52+08:00 ] ::1 /mmsh/index.php/Home/Index/insider/id/4
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000334s ]
+
+[ 2017-03-24T16:23:09+08:00 ] ::1 /mmsh/index.php/Home/Index/insider
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000376s ]
+
+[ 2017-03-24T16:23:25+08:00 ] ::1 /mmsh/index.php/Home/Index/insider/id/4
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000278s ]
+
+[ 2017-03-24T16:23:26+08:00 ] ::1 /mmsh/index.php/Home/Index/insider/id/3
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000343s ]
+
+[ 2017-03-24T16:23:27+08:00 ] ::1 /mmsh/index.php/Home/Index/insider_cont/id/4
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000365s ]
+
+[ 2017-03-24T16:23:36+08:00 ] ::1 /mmsh/index.php/Home/Index/insider_cont/id/4
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000360s ]
+
+[ 2017-03-24T16:24:14+08:00 ] ::1 /mmsh/index.php/Home/Index/insider_cont/id/4
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000331s ]
+
+[ 2017-03-24T16:24:43+08:00 ] ::1 /mmsh/index.php/Home/Index/dongtai
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000363s ]
+
+[ 2017-03-24T16:24:45+08:00 ] ::1 /mmsh/index.php/Home/Index/dongtai/id/7
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000376s ]
+
+[ 2017-03-24T16:24:48+08:00 ] ::1 /mmsh/index.php/Home/Index/dongtaiX/id/30
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000353s ]
+
+[ 2017-03-24T16:24:58+08:00 ] ::1 /mmsh/index.php/Home/Index/insider
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000336s ]
+
+[ 2017-03-24T16:24:59+08:00 ] ::1 /mmsh/index.php/Home/Index/insider_cont/id/4
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000358s ]
+
+[ 2017-03-24T16:25:23+08:00 ] ::1 /mmsh/index.php/Home/Index/insider_cont/id/4
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000338s ]
+
+[ 2017-03-24T16:26:02+08:00 ] ::1 /mmsh/index.php/Home/Index/insider_cont/id/4
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000388s ]
+
+[ 2017-03-24T16:26:18+08:00 ] ::1 /mmsh/index.php/Home/Index/insider_cont/id/4
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000384s ]
+
+[ 2017-03-24T16:26:19+08:00 ] ::1 /mmsh/index.php/Home/Index/insider_cont/id/4
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000336s ]
+
+[ 2017-03-24T16:26:20+08:00 ] ::1 /mmsh/index.php/Home/Index/insider/id/3
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000364s ]
+
+[ 2017-03-24T16:26:22+08:00 ] ::1 /mmsh/index.php/Home/Index/insider/id/4
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000362s ]
+
+[ 2017-03-24T16:26:23+08:00 ] ::1 /mmsh/index.php/Home/Index/insider/id/3
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000435s ]
+
+[ 2017-03-24T16:26:35+08:00 ] ::1 /mmsh/index.php/Home/Index/insider_cont/id/4
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000331s ]
+
+[ 2017-03-24T16:26:56+08:00 ] ::1 /mmsh/index.php/Home/Index/insider_cont/id/4
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000455s ]
+
+[ 2017-03-24T16:28:09+08:00 ] ::1 /mmsh/index.php/Home/Index/insider_cont/id/4
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000347s ]
+
+[ 2017-03-24T16:28:56+08:00 ] ::1 /mmsh/index.php/Home/Index/insider_cont/id/4
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000370s ]
+
+[ 2017-03-24T16:29:22+08:00 ] ::1 /mmsh/index.php/Home/Index/insider_cont/id/4
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000361s ]
+
+[ 2017-03-24T16:29:56+08:00 ] ::1 /mmsh/index.php/Home/Index/insider_cont/id/4
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000355s ]
+
+[ 2017-03-24T16:30:02+08:00 ] ::1 /mmsh/index.php/Home/Index/insider/id/4
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000280s ]
+
+[ 2017-03-24T16:30:37+08:00 ] ::1 /mmsh/index.php/Home/Index/insider/id/4
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000270s ]
+
+[ 2017-03-24T16:30:38+08:00 ] ::1 /mmsh/index.php/Home/Index/insider/id/3
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000323s ]
+
+[ 2017-03-24T16:30:39+08:00 ] ::1 /mmsh/index.php/Home/Index/insider_cont/id/4
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000340s ]
+
+[ 2017-03-24T16:31:01+08:00 ] ::1 /mmsh/index.php/Home/Index/insider_cont/id/4
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000300s ]
+
+[ 2017-03-24T16:32:27+08:00 ] ::1 /mmsh/index.php/Home/Index/insider_cont/id/4
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000459s ]
+
+[ 2017-03-24T16:32:44+08:00 ] ::1 /mmsh/index.php/Home/Index/insider_cont/id/4
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000371s ]
+
+[ 2017-03-24T16:33:01+08:00 ] ::1 /mmsh/index.php/Home/Index/insider_cont/id/4
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000333s ]
+
+[ 2017-03-24T16:33:40+08:00 ] ::1 /mmsh/index.php/Home/Index/insider_cont/id/4
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000356s ]
+
+[ 2017-03-24T16:33:54+08:00 ] ::1 /mmsh/index.php/Home/Index/insider_cont/id/4
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000351s ]
+
+[ 2017-03-24T16:34:42+08:00 ] ::1 /mmsh/index.php/Home/Index/insider_cont/id/4
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000512s ]
+
+[ 2017-03-24T16:34:52+08:00 ] ::1 /mmsh/index.php/Home/Index/insider_cont/id/4
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000359s ]
+
+[ 2017-03-24T16:35:53+08:00 ] ::1 /mmsh/index.php/Home/Index/insider_cont/id/4
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000361s ]
+
+[ 2017-03-24T16:36:05+08:00 ] ::1 /mmsh/index.php/Home/Index/insider/id/4
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000376s ]
+
+[ 2017-03-24T16:36:07+08:00 ] ::1 /mmsh/index.php/Home/Index/insider/id/3
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000372s ]
+
+[ 2017-03-24T16:36:09+08:00 ] ::1 /mmsh/index.php/Home/Index/dongtai
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000277s ]
+
+[ 2017-03-24T16:36:11+08:00 ] ::1 /mmsh/index.php/Home/Index/dongtaiX/id/42
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000281s ]
+
+[ 2017-03-24T16:36:45+08:00 ] ::1 /mmsh/index.php/Home/Index/dongtaiX/id/42
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000358s ]
+
+[ 2017-03-24T16:37:01+08:00 ] ::1 /mmsh/index.php/Home/Index/dongtaiX/id/42
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000360s ]
+
+[ 2017-03-24T16:37:09+08:00 ] ::1 /mmsh/index.php/Home/Index/insider
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000344s ]
+
+[ 2017-03-24T16:37:11+08:00 ] ::1 /mmsh/index.php/Home/Index/insider_cont/id/4
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000381s ]
+
+[ 2017-03-24T16:37:29+08:00 ] ::1 /mmsh/index.php/Home/Index/dongtai
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000333s ]
+
+[ 2017-03-24T16:37:30+08:00 ] ::1 /mmsh/index.php/Home/Index/dongtaiX/id/37
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000361s ]
+
+[ 2017-03-24T16:38:26+08:00 ] ::1 /mmsh/index.php/Home/Index/dongtaiX/id/37
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000328s ]
+
+[ 2017-03-24T16:38:34+08:00 ] ::1 /mmsh/index.php/Home/Index/dongtaiX/id/37
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000376s ]
+
+[ 2017-03-24T16:38:41+08:00 ] ::1 /mmsh/index.php/Home/Index/dongtaiX/id/37
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000301s ]
+
+[ 2017-03-24T16:38:45+08:00 ] ::1 /mmsh/index.php/Home/Index/dongtaiX/id/37
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000363s ]
+
+[ 2017-03-24T16:38:53+08:00 ] ::1 /mmsh/index.php/Home/Index/dongtai/id/2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000355s ]
+
+[ 2017-03-24T16:39:19+08:00 ] ::1 /mmsh/index.php/Home/Index/dongtai/id/2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000336s ]
+
+[ 2017-03-24T16:39:22+08:00 ] ::1 /mmsh/index.php/Home/Index/insider
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000328s ]
+
+[ 2017-03-24T16:39:56+08:00 ] ::1 /mmsh/index.php/Home/Index/insider/id/4
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000313s ]
+
+[ 2017-03-24T16:39:57+08:00 ] ::1 /mmsh/index.php/Home/Index/insider_cont/id/2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000332s ]
+
+[ 2017-03-24T16:39:59+08:00 ] ::1 /mmsh/index.php/Home/Index/insider/id/3
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000349s ]
+
+[ 2017-03-24T16:40:00+08:00 ] ::1 /mmsh/index.php/Home/Index/insider_cont/id/4
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000538s ]
+
+[ 2017-03-24T16:40:11+08:00 ] ::1 /mmsh/index.php/Home/Index/gonggao
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000338s ]
+
+[ 2017-03-24T16:43:48+08:00 ] ::1 /mmsh/index.php/Home/Index/insider
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000425s ]
+
+[ 2017-03-24T16:43:51+08:00 ] ::1 /mmsh/index.php/Home/Index/gonggao
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000280s ]
+
+[ 2017-03-24T16:46:28+08:00 ] ::1 /mmsh/index.php/Home/Index/dongtai
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000421s ]
+
+[ 2017-03-24T16:46:30+08:00 ] ::1 /mmsh/index.php/Home/Index/gonggao
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000599s ]
+
+[ 2017-03-24T16:46:32+08:00 ] ::1 /mmsh/index.php/Home/Index/dongtaiX.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000282s ]
+
+[ 2017-03-24T16:55:16+08:00 ] ::1 /mmsh/index.php/Home/Index/gonggao
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000511s ]
+
+[ 2017-03-24T16:56:06+08:00 ] ::1 /mmsh/index.php/Home/Index/gonggao
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000469s ]
+
+[ 2017-03-24T16:57:11+08:00 ] ::1 /mmsh/index.php/Home/Index/gonggao
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000321s ]
+
+[ 2017-03-24T16:57:37+08:00 ] ::1 /mmsh/index.php/Home/Index/gonggao
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000396s ]
+
+[ 2017-03-24T16:58:03+08:00 ] ::1 /mmsh/index.php/Home/Index/gonggao
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000403s ]
+
+[ 2017-03-24T16:58:38+08:00 ] ::1 /mmsh/index.php/Home/Index/gonggao
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000358s ]
+
+[ 2017-03-24T17:03:18+08:00 ] ::1 /mmsh/index.php/Home/Index/gonggao
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000783s ]
+
+[ 2017-03-24T17:03:27+08:00 ] ::1 /mmsh/index.php/Home/Index/gonggao
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000475s ]
+
+[ 2017-03-24T17:03:40+08:00 ] ::1 /mmsh/index.php/Home/Index/gonggao
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000346s ]
+
+[ 2017-03-24T17:03:52+08:00 ] ::1 /mmsh/index.php/Home/Index/gonggao
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000357s ]
+
+[ 2017-03-24T17:04:00+08:00 ] ::1 /mmsh/index.php/Home/Index/gonggao
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000332s ]
+
+[ 2017-03-24T17:04:04+08:00 ] ::1 /mmsh/index.php/Home/Index/dongtai
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000376s ]
+
+[ 2017-03-24T17:04:07+08:00 ] ::1 /mmsh/index.php/Home/Index/gonggao
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000449s ]
+
+[ 2017-03-24T17:04:44+08:00 ] ::1 /mmsh/index.php/Home/Index/gonggao
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000357s ]
+
+[ 2017-03-24T17:05:02+08:00 ] ::1 /mmsh/index.php/Home/Index/gonggao
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000402s ]
+
+[ 2017-03-24T17:06:10+08:00 ] ::1 /mmsh/index.php/Home/Index/gonggao
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000384s ]
+
+[ 2017-03-24T17:07:05+08:00 ] ::1 /mmsh/index.php/Home/Index/gonggao
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000337s ]
+
+[ 2017-03-24T17:07:28+08:00 ] ::1 /mmsh/index.php/Home/Index/gonggao
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000430s ]
+
+[ 2017-03-24T17:07:55+08:00 ] ::1 /mmsh/index.php/Home/Index/gonggao
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000033s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000625s ]
+
+[ 2017-03-24T17:08:02+08:00 ] ::1 /mmsh/index.php/Home/Index/gonggao
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000371s ]
+
+[ 2017-03-24T17:08:20+08:00 ] ::1 /mmsh/index.php/Home/Index/gonggao
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000376s ]
+
+[ 2017-03-24T17:08:22+08:00 ] ::1 /mmsh/index.php/Home/Index/dongtai/id/5
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000304s ]
+
+[ 2017-03-24T17:08:29+08:00 ] ::1 /mmsh/index.php/Home/Index/dongtai/id/2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000302s ]
+
+[ 2017-03-24T17:08:31+08:00 ] ::1 /mmsh/index.php/Home/Index/gonggao
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000359s ]
+
+[ 2017-03-24T17:08:42+08:00 ] ::1 /mmsh/index.php/Home/Index/gonggao
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000375s ]
+
+[ 2017-03-24T17:08:43+08:00 ] ::1 /mmsh/index.php/Home/Index/gonggao/id/5
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000355s ]
+
+[ 2017-03-24T17:08:45+08:00 ] ::1 /mmsh/index.php/Home/Index/gonggao/id/6
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000433s ]
+
+[ 2017-03-24T17:09:58+08:00 ] ::1 /mmsh/index.php/Home/Index/gonggao/id/6
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000360s ]
+
+[ 2017-03-24T17:10:15+08:00 ] ::1 /mmsh/index.php/Home/Index/gonggao/id/5
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000267s ]
+
+[ 2017-03-24T17:10:25+08:00 ] ::1 /mmsh/index.php/Home/Index/gonggao/id/6
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000315s ]
+
+[ 2017-03-24T17:10:37+08:00 ] ::1 /mmsh/index.php/Home/Index/gonggao/id/6
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000368s ]
+
+[ 2017-03-24T17:10:41+08:00 ] ::1 /mmsh/index.php/Home/Index/gonggao/id/5
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000382s ]
+
+[ 2017-03-24T17:10:45+08:00 ] ::1 /mmsh/index.php/Home/Index/gonggao
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000303s ]
+
+[ 2017-03-24T17:12:47+08:00 ] ::1 /mmsh/index.php/Home/Index/gonggao
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000559s ]
+
+[ 2017-03-24T17:15:16+08:00 ] ::1 /mmsh/index.php/Home/Index/gonggao
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000345s ]
+
+[ 2017-03-24T17:15:19+08:00 ] ::1 /mmsh/index.php/Home/Index/content/id/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000352s ]
+
+[ 2017-03-24T17:15:19+08:00 ] ::1 /mmsh/index.php/Home/Index/content/id/images/contactBg.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000420s ]
+
+[ 2017-03-24T17:15:58+08:00 ] ::1 /mmsh/index.php/Home/Index/content/id/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000538s ]
+
+[ 2017-03-24T17:16:18+08:00 ] ::1 /mmsh/index.php/Home/Index/content/id/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000430s ]
+
+[ 2017-03-24T17:16:45+08:00 ] ::1 /mmsh/index.php/Home/Index/insider
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000357s ]
+
+[ 2017-03-24T17:16:47+08:00 ] ::1 /mmsh/index.php/Home/Index/insider/id/4
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000583s ]
+
+[ 2017-03-24T17:16:52+08:00 ] ::1 /mmsh/index.php/Home/Index/insider/id/3
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000364s ]
+
+[ 2017-03-24T17:16:55+08:00 ] ::1 /mmsh/index.php/Home/Index/insider
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000397s ]
+
+[ 2017-03-24T17:17:02+08:00 ] ::1 /mmsh/index.php/Home/Index/gonggao
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000438s ]
+
+[ 2017-03-24T17:17:05+08:00 ] ::1 /mmsh/index.php/Home/Index/dongtai
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000480s ]
+
+[ 2017-03-24T17:17:46+08:00 ] ::1 /mmsh/index.php/Home/Index/insider
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000382s ]
+
+[ 2017-03-24T17:17:49+08:00 ] ::1 /mmsh/index.php/Home/Index/dongtai
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000311s ]
+
+[ 2017-03-24T17:17:52+08:00 ] ::1 /mmsh/index.php/Home/Index/gonggao
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000355s ]
+
+[ 2017-03-24T17:17:58+08:00 ] ::1 /mmsh/index.php/Home/Index/content/id/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000346s ]
+
+[ 2017-03-24T17:19:09+08:00 ] ::1 /mmsh/index.php/Home/Index/gonggao
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000512s ]
+
+[ 2017-03-24T17:19:17+08:00 ] ::1 /mmsh/index.php/Home/Index/gonggao
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000356s ]
+
+[ 2017-03-24T17:19:29+08:00 ] ::1 /mmsh/index.php/Home/Index/insider
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000475s ]
+
+[ 2017-03-24T17:19:42+08:00 ] ::1 /mmsh/index.php/Home/Index/insider
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000483s ]
+
+[ 2017-03-24T17:20:09+08:00 ] ::1 /mmsh/index.php/Home/Index/insider
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000391s ]
+
+[ 2017-03-24T17:20:31+08:00 ] ::1 /mmsh/index.php/Home/Index/insider
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000451s ]
+
+[ 2017-03-24T17:20:44+08:00 ] ::1 /mmsh/index.php/Home/Index/insider
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000301s ]
+
+[ 2017-03-24T17:21:20+08:00 ] ::1 /mmsh/index.php/Home/Index/insider
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000730s ]
+
+[ 2017-03-24T17:21:22+08:00 ] ::1 /mmsh/index.php/Home/Index/gonggao
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000359s ]
+
+[ 2017-03-24T17:21:24+08:00 ] ::1 /mmsh/index.php/Home/Index/gonggao/id/5
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000358s ]
+
+[ 2017-03-24T17:21:26+08:00 ] ::1 /mmsh/index.php/Home/Index/gonggao/id/6
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000326s ]
+
+[ 2017-03-24T17:21:28+08:00 ] ::1 /mmsh/index.php/Home/Index/gonggao/id/5
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000403s ]
+
+[ 2017-03-24T17:21:30+08:00 ] ::1 /mmsh/index.php/Home/Index/gonggao/id/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000392s ]
+
+[ 2017-03-24T17:21:32+08:00 ] ::1 /mmsh/index.php/Home/Index/dongtai
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000373s ]
+
+[ 2017-03-24T17:21:33+08:00 ] ::1 /mmsh/index.php/Home/Index/dongtai/id/8
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000324s ]
+
+[ 2017-03-24T17:21:35+08:00 ] ::1 /mmsh/index.php/Home/Index/dongtai/id/7
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000424s ]
+
+[ 2017-03-24T17:23:35+08:00 ] ::1 /mmsh/index.php/Home/Index/dongtai/id/7
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000627s ]
+
+[ 2017-03-24T17:24:38+08:00 ] ::1 /mmsh/index.php/Home/Index/dongtai/id/7
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000357s ]
+
+[ 2017-03-24T17:24:41+08:00 ] ::1 /mmsh/index.php/Home/Index/dongtai/id/7/p/2.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000324s ]
+
+[ 2017-03-24T17:25:10+08:00 ] ::1 /mmsh/index.php/Home/Index/insider
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000321s ]
+
+[ 2017-03-24T17:25:12+08:00 ] ::1 /mmsh/index.php/Home/Index/insider/id/4
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000362s ]
+
+[ 2017-03-24T17:25:14+08:00 ] ::1 /mmsh/index.php/Home/Index/insider/id/3
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000293s ]
+
+[ 2017-03-24T17:25:16+08:00 ] ::1 /mmsh/index.php/Home/Index/insider_cont/id/4
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000381s ]
+
+[ 2017-03-24T17:25:20+08:00 ] ::1 /mmsh/index.php/Home/Index/dongtai
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000348s ]
+
+[ 2017-03-24T17:25:26+08:00 ] ::1 /mmsh/index.php/Home/Index/dongtaiX/id/37
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000425s ]
+
+[ 2017-03-24T17:25:29+08:00 ] ::1 /mmsh/index.php/Home/Index/dongtai
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000374s ]
+
+[ 2017-03-24T17:25:39+08:00 ] ::1 /mmsh/index.php/Home/Index/dongtai
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000336s ]
+
+[ 2017-03-24T17:25:41+08:00 ] ::1 /mmsh/index.php/Home/Index/gonggao
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000380s ]
+
+[ 2017-03-24T17:25:44+08:00 ] ::1 /mmsh/index.php/Home/Index/dongtai
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000367s ]
+
+[ 2017-03-24T17:25:46+08:00 ] ::1 /mmsh/index.php/Home/Index/dongtai/id/7
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000333s ]
+
+[ 2017-03-24T17:25:48+08:00 ] ::1 /mmsh/index.php/Home/Index/dongtai/id/8
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000346s ]
+
+[ 2017-03-24T17:25:56+08:00 ] ::1 /mmsh/index.php/Home/Index/gonggao
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000361s ]
+
+[ 2017-03-24T17:25:58+08:00 ] ::1 /mmsh/index.php/Home/Index/gonggao/id/5
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000629s ]
+
+[ 2017-03-24T17:26:00+08:00 ] ::1 /mmsh/index.php/Home/Index/content/id/2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000272s ]
+
+[ 2017-03-24T17:26:19+08:00 ] ::1 /mmsh/index.php/Home/Index/gonggao/id/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000549s ]
+
+[ 2017-03-24T17:26:20+08:00 ] ::1 /mmsh/index.php/Home/Index/content/id/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000348s ]
+
+[ 2017-03-24T17:26:56+08:00 ] ::1 /mmsh/index.php/Home/Index/gonggao/id/5
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000287s ]
+
+[ 2017-03-24T17:26:58+08:00 ] ::1 /mmsh/index.php/Home/Index/gonggao/id/6
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000357s ]
+
+[ 2017-03-24T17:26:59+08:00 ] ::1 /mmsh/index.php/Home/Index/gonggao/id/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000353s ]
+
+[ 2017-03-24T17:27:00+08:00 ] ::1 /mmsh/index.php/Home/Index/gonggao/id/5
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000276s ]
+
+[ 2017-03-24T17:27:01+08:00 ] ::1 /mmsh/index.php/Home/Index/content/id/2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000317s ]
+
+[ 2017-03-24T17:27:43+08:00 ] ::1 /mmsh/index.php/Home/Index/content/id/2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000381s ]
+
+[ 2017-03-24T17:27:56+08:00 ] ::1 /mmsh/index.php/Home/Index/content/id/2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000374s ]
+
+[ 2017-03-24T17:28:02+08:00 ] ::1 /mmsh/index.php/Home/Index/insider/id/2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000375s ]
+
+[ 2017-03-24T17:28:14+08:00 ] ::1 /mmsh/index.php/Home/Index/content/id/2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000357s ]
+
+[ 2017-03-24T17:28:16+08:00 ] ::1 /mmsh/index.php/Home/Index/insider/id/6
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000365s ]
+
+[ 2017-03-24T17:28:37+08:00 ] ::1 /mmsh/index.php/Home/Index/insider/id/6
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000358s ]
+
+[ 2017-03-24T17:29:02+08:00 ] ::1 /mmsh/index.php/Home/Index/insider/id/6
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000283s ]
+
+[ 2017-03-24T17:29:04+08:00 ] ::1 /mmsh/index.php/Home/Index/insider/id/3
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000329s ]
+
+[ 2017-03-24T17:29:08+08:00 ] ::1 /mmsh/index.php/Home/Index/dongtai
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000420s ]
+
+[ 2017-03-24T17:29:11+08:00 ] ::1 /mmsh/index.php/Home/Index/dongtai/id/7
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000351s ]
+
+[ 2017-03-24T17:29:13+08:00 ] ::1 /mmsh/index.php/Home/Index/dongtai/id/8
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000353s ]
+
+[ 2017-03-24T17:29:14+08:00 ] ::1 /mmsh/index.php/Home/Index/gonggao
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000336s ]
+
+[ 2017-03-24T17:29:16+08:00 ] ::1 /mmsh/index.php/Home/Index/gonggao/id/5
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000326s ]
+
+[ 2017-03-24T17:29:18+08:00 ] ::1 /mmsh/index.php/Home/Index/content/id/2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000448s ]
+
+[ 2017-03-24T17:29:20+08:00 ] ::1 /mmsh/index.php/Home/Index/insider/id/6
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000400s ]
+
+[ 2017-03-24T17:29:25+08:00 ] ::1 /mmsh/index.php/Home/Index/content/id/2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000438s ]
+
+[ 2017-03-24T17:29:45+08:00 ] ::1 /mmsh/index.php/Home/Index/content/id/2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000542s ]
+
+[ 2017-03-24T17:29:46+08:00 ] ::1 /mmsh/index.php/Home/Index/content/id/6
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000427s ]
+
+[ 2017-03-24T17:29:48+08:00 ] ::1 /mmsh/index.php/Home/Index/content/id/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000424s ]
+
+[ 2017-03-24T17:29:50+08:00 ] ::1 /mmsh/index.php/Home/Index/content/id/6
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000405s ]
+
+[ 2017-03-24T17:29:52+08:00 ] ::1 /mmsh/index.php/Home/Index/content/id/5
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000427s ]
+
+[ 2017-03-24T17:29:53+08:00 ] ::1 /mmsh/index.php/Home/Index/content/id/5
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000329s ]
+
+[ 2017-03-24T17:29:54+08:00 ] ::1 /mmsh/index.php/Home/Index/content/id/5
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000351s ]
+
+[ 2017-03-24T17:29:55+08:00 ] ::1 /mmsh/index.php/Home/Index/content/id/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000433s ]
+
+[ 2017-03-24T17:29:56+08:00 ] ::1 /mmsh/index.php/Home/Index/content/id/5
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000366s ]
+
+[ 2017-03-24T17:30:25+08:00 ] ::1 /mmsh/index.php/Home/Index/content/id/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000420s ]
+
+[ 2017-03-24T17:30:31+08:00 ] ::1 /mmsh/index.php/Home/Index/insider
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000062s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000413s ]
+
+[ 2017-03-24T17:31:08+08:00 ] ::1 /mmsh/index.php/Home/Index/info
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000381s ]
+
+[ 2017-03-24T17:31:09+08:00 ] ::1 /mmsh/index.php/Home/Index/insider
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000449s ]
+
+[ 2017-03-24T17:31:11+08:00 ] ::1 /mmsh/index.php/Home/Index/insider_cont/id/3
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000306s ]
+
+[ 2017-03-24T17:31:14+08:00 ] ::1 /mmsh/index.php/Home/Index/insider/id/4
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000312s ]
+
+[ 2017-03-24T17:31:15+08:00 ] ::1 /mmsh/index.php/Home/Index/insider_cont/id/2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000337s ]
+
+[ 2017-03-24T17:31:16+08:00 ] ::1 /mmsh/index.php/Home/Index/insider/id/3
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000391s ]
+
+[ 2017-03-24T17:31:17+08:00 ] ::1 /mmsh/index.php/Home/Index/insider_cont/id/4
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000354s ]
+
+[ 2017-03-24T17:31:23+08:00 ] ::1 /mmsh/index.php/Home/Index/gonggao
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000544s ]
+
+[ 2017-03-24T17:31:25+08:00 ] ::1 /mmsh/index.php/Home/Index/gonggao/id/5
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000377s ]
+
+[ 2017-03-24T17:31:26+08:00 ] ::1 /mmsh/index.php/Home/Index/gonggao/id/6
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000299s ]
+
+[ 2017-03-24T17:31:29+08:00 ] ::1 /mmsh/index.php/Home/Index/content/id/3
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000319s ]
+
+[ 2017-03-24T17:31:51+08:00 ] ::1 /mmsh/index.php/Home/Index/content/id/3
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000358s ]
+
+[ 2017-03-24T17:32:14+08:00 ] ::1 /mmsh/index.php/Home/Index/insider
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000356s ]
+
+[ 2017-03-24T17:32:37+08:00 ] ::1 /mmsh/index.php/Home/Index/content/id/3
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000446s ]
+
+[ 2017-03-24T17:32:39+08:00 ] ::1 /mmsh/index.php/Home/Index/dongtai
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000369s ]
+
+[ 2017-03-24T17:32:40+08:00 ] ::1 /mmsh/index.php/Home/Index/dongtai/id/8
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000394s ]
+
+[ 2017-03-24T17:32:41+08:00 ] ::1 /mmsh/index.php/Home/Index/dongtaiX/id/44
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000335s ]
+
+[ 2017-03-24T17:32:51+08:00 ] ::1 /mmsh/index.php/Home/Index/dongtai/id/7
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000291s ]
+
+[ 2017-03-24T17:33:00+08:00 ] ::1 /mmsh/index.php/Home/Index/gonggao
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000367s ]
+
+[ 2017-03-24T17:33:02+08:00 ] ::1 /mmsh/index.php/Home/Index/gonggao/id/6
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000310s ]
+
+[ 2017-03-24T17:33:03+08:00 ] ::1 /mmsh/index.php/Home/Index/content/id/3
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000369s ]
+
+[ 2017-03-24T17:33:06+08:00 ] ::1 /mmsh/index.php/Home/Index/gonggao
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000357s ]
+
+[ 2017-03-24T17:33:07+08:00 ] ::1 /mmsh/index.php/Home/Index/gonggao/id/5
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000373s ]
+
+[ 2017-03-24T17:33:08+08:00 ] ::1 /mmsh/index.php/Home/Index/content/id/2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000366s ]
+
+[ 2017-03-24T17:33:10+08:00 ] ::1 /mmsh/index.php/Home/Index/content/id/6
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000338s ]
+
+[ 2017-03-24T17:33:17+08:00 ] ::1 /mmsh/index.php/Home/Index/gonggao
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000359s ]
+
+[ 2017-03-24T17:33:19+08:00 ] ::1 /mmsh/index.php/Home/Index/gonggao/id/6
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000371s ]
+
+[ 2017-03-24T17:33:20+08:00 ] ::1 /mmsh/index.php/Home/Index/gonggao/id/5
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000362s ]
+
+[ 2017-03-24T17:33:22+08:00 ] ::1 /mmsh/index.php/Home/Index/content/id/2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000347s ]
+
+[ 2017-03-24T17:33:24+08:00 ] ::1 /mmsh/index.php/Home/Index/content/id/6
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000296s ]
+
+[ 2017-03-24T17:33:26+08:00 ] ::1 /mmsh/index.php/Home/Index/content/id/6
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000357s ]
+
+[ 2017-03-24T17:33:28+08:00 ] ::1 /mmsh/index.php/Home/Index/content/id/6
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000385s ]
+
+[ 2017-03-24T17:33:30+08:00 ] ::1 /mmsh/index.php/Home/Index/content/id/5
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000499s ]
+
+[ 2017-03-24T17:33:52+08:00 ] ::1 /mmsh/index.php/Home/Index/content/id/5
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000353s ]
+
+[ 2017-03-24T17:33:53+08:00 ] ::1 /mmsh/index.php/Home/Index/dongtai/id/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000317s ]
+
+[ 2017-03-24T17:33:55+08:00 ] ::1 /mmsh/index.php/Home/Index/dongtai/id/7
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000480s ]
+
+[ 2017-03-24T17:34:07+08:00 ] ::1 /mmsh/index.php/Home/Index/gonggao
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000301s ]
+
+[ 2017-03-24T17:34:12+08:00 ] ::1 /mmsh/index.php/Home/Index/gonggao/id/5
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000344s ]
+
+[ 2017-03-24T17:34:13+08:00 ] ::1 /mmsh/index.php/Home/Index/content/id/2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000356s ]
+
+[ 2017-03-24T17:34:14+08:00 ] ::1 /mmsh/index.php/Home/Index/gonggao/id/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000362s ]
+
+[ 2017-03-24T17:34:16+08:00 ] ::1 /mmsh/index.php/Home/Index/gonggao/id/6
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000374s ]
+
+[ 2017-03-24T17:34:18+08:00 ] ::1 /mmsh/index.php/Home/Index/content/id/3
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000416s ]
+
+[ 2017-03-24T17:34:19+08:00 ] ::1 /mmsh/index.php/Home/Index/gonggao/id/5
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000359s ]
+
+[ 2017-03-24T17:34:31+08:00 ] ::1 /mmsh/index.php/Home/Index/insider
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000401s ]
+
+[ 2017-03-24T17:34:31+08:00 ] ::1 /mmsh/index.php/Home/Index/dongtai
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000401s ]
+
+[ 2017-03-24T17:34:33+08:00 ] ::1 /mmsh/index.php/Home/Index/contact
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000363s ]
+
+[ 2017-03-24T17:34:34+08:00 ] ::1 /mmsh/index.php/Home/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000364s ]
+
+[ 2017-03-24T17:35:37+08:00 ] ::1 /mmsh/index.php/Home/Index/insider
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000482s ]
+
+[ 2017-03-24T17:35:41+08:00 ] ::1 /mmsh/index.php/Home/Index/insider/id/4
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000292s ]
+
+[ 2017-03-24T17:35:43+08:00 ] ::1 /mmsh/index.php/Home/Index/insider_cont/id/2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000363s ]
+
+[ 2017-03-24T17:35:49+08:00 ] ::1 /mmsh/index.php/Home/Index/insider/id/3
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000436s ]
+
+[ 2017-03-24T17:35:53+08:00 ] ::1 /mmsh/index.php/Home/Index/insider_cont/id/3
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000362s ]
+
+[ 2017-03-24T17:35:57+08:00 ] ::1 /mmsh/index.php/Home/Index/insider/id/4
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000359s ]
+
+[ 2017-03-24T17:36:02+08:00 ] ::1 /mmsh/index.php/Home/Index/insider
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000443s ]
+
+[ 2017-03-24T17:36:05+08:00 ] ::1 /mmsh/index.php/Home/Index/insider
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000575s ]
+
+[ 2017-03-24T17:36:12+08:00 ] ::1 /mmsh/index.php/Home/Index/dongtai
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000358s ]
+
+[ 2017-03-24T17:36:39+08:00 ] ::1 /mmsh/index.php/Home/Index/dongtai
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000519s ]
+
+[ 2017-03-24T17:36:40+08:00 ] ::1 /mmsh/index.php/Home/Index/dongtai
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000515s ]
+
+[ 2017-03-24T17:36:40+08:00 ] ::1 /mmsh/index.php/Home/Index/dongtai
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000757s ]
+
+[ 2017-03-24T17:36:42+08:00 ] ::1 /mmsh/index.php/Home/Index/insider
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000361s ]
+
+[ 2017-03-24T17:36:43+08:00 ] ::1 /mmsh/index.php/Home/Index/insider/id/4
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000319s ]
+
+[ 2017-03-24T17:36:44+08:00 ] ::1 /mmsh/index.php/Home/Index/insider
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000358s ]
+
+[ 2017-03-24T17:36:47+08:00 ] ::1 /mmsh/index.php/Home/Index/dongtai
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000358s ]
+
+[ 2017-03-24T17:36:49+08:00 ] ::1 /mmsh/index.php/Home/Index/dongtai/id/7
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000354s ]
+
+[ 2017-03-24T17:36:51+08:00 ] ::1 /mmsh/index.php/Home/Index/dongtai/id/8
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000402s ]
+
+[ 2017-03-24T17:36:52+08:00 ] ::1 /mmsh/index.php/Home/Index/dongtai/id/7
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000306s ]
+
+[ 2017-03-24T17:36:54+08:00 ] ::1 /mmsh/index.php/Home/Index/dongtai/id/2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000397s ]
+
+[ 2017-03-24T17:36:57+08:00 ] ::1 /mmsh/index.php/Home/Index/dongtai
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000362s ]
+
+[ 2017-03-24T17:37:00+08:00 ] ::1 /mmsh/index.php/Home/Index/gonggao
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000350s ]
+
+[ 2017-03-24T17:37:06+08:00 ] ::1 /mmsh/index.php/Home/Index/gonggao/id/5
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000351s ]
+
+[ 2017-03-24T17:37:08+08:00 ] ::1 /mmsh/index.php/Home/Index/gonggao/id/6
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000358s ]
+
+[ 2017-03-24T17:37:10+08:00 ] ::1 /mmsh/index.php/Home/Index/gonggao/id/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000347s ]
+
+[ 2017-03-24T17:37:11+08:00 ] ::1 /mmsh/index.php/Home/Index/content/id/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000367s ]
+
+[ 2017-03-24T17:37:15+08:00 ] ::1 /mmsh/index.php/Home/Index/gonggao/id/5
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000389s ]
+
+[ 2017-03-24T17:37:16+08:00 ] ::1 /mmsh/index.php/Home/Index/gonggao/id/6
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000367s ]
+
+[ 2017-03-24T17:37:18+08:00 ] ::1 /mmsh/index.php/Home/Index/content/id/3
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000365s ]
+
+[ 2017-03-24T17:37:21+08:00 ] ::1 /mmsh/index.php/Home/Index/gonggao
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000357s ]
+
+[ 2017-03-24T17:37:24+08:00 ] ::1 /mmsh/index.php/Home/Index/gonggao/id/5
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000365s ]
+
+[ 2017-03-24T17:37:28+08:00 ] ::1 /mmsh/index.php/Home/Index/content/id/2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000409s ]
+
+[ 2017-03-24T17:37:32+08:00 ] ::1 /mmsh/index.php/Home/Index/insider
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000358s ]
+
+[ 2017-03-24T17:37:38+08:00 ] ::1 /mmsh/index.php/Home/Index/insider_cont/id/4
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000441s ]
+
+[ 2017-03-24T17:37:59+08:00 ] ::1 /mmsh/index.php/Home/Index/insider_cont/id/4
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000458s ]
+
+[ 2017-03-24T17:38:38+08:00 ] ::1 /mmsh/index.php/Home/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000367s ]
+
+[ 2017-03-24T17:38:41+08:00 ] ::1 /mmsh/index.php/Home/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000642s ]
+
+[ 2017-03-24T17:38:43+08:00 ] ::1 /mmsh/index.php/Home/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000585s ]
+
+[ 2017-03-24T17:38:58+08:00 ] ::1 /mmsh/index.php/Home/Index/info
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000356s ]
+
+[ 2017-03-24T17:39:05+08:00 ] ::1 /mmsh/index.php/Home/Index/zhangcheng
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000370s ]
+
+[ 2017-03-24T17:39:05+08:00 ] ::1 /mmsh/index.php/Home/Index/lib/bootstrap/js/index.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000441s ]
+ERR: 非法操作:lib
+
+[ 2017-03-24T17:39:05+08:00 ] ::1 /mmsh/index.php/Home/Index/lib/bootstrap/js/index.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000580s ]
+ERR: 非法操作:lib
+
+[ 2017-03-24T17:40:04+08:00 ] ::1 /mmsh/index.php/Home/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000368s ]
+
+[ 2017-03-24T17:44:35+08:00 ] ::1 /mmsh/index.php/Home/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000427s ]
+
+[ 2017-03-24T17:44:55+08:00 ] ::1 /mmsh/index.php/Home/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000593s ]
+
+[ 2017-03-24T17:45:42+08:00 ] ::1 /mmsh/index.php/Home/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000585s ]
+
+[ 2017-03-24T17:46:26+08:00 ] ::1 /mmsh/index.php/Home/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000337s ]
+
+[ 2017-03-24T17:46:34+08:00 ] ::1 /mmsh/index.php/Home/Index/insider
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000290s ]
+
+[ 2017-03-24T17:46:37+08:00 ] ::1 /mmsh/index.php/Home/Index/dongtai
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000305s ]
+
+[ 2017-03-24T17:46:53+08:00 ] ::1 /mmsh/index.php/Home/Index/gonggao
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000302s ]
+
+[ 2017-03-24T17:47:40+08:00 ] ::1 /mmsh/index.php/Home/Index/gonggao
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000547s ]
+
+[ 2017-03-24T17:47:46+08:00 ] ::1 /mmsh/index.php/Home/Index/dongtai
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000386s ]
+
+[ 2017-03-24T17:47:52+08:00 ] ::1 /mmsh/index.php/Home/Index/gonggao
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000380s ]
+
+[ 2017-03-24T17:48:21+08:00 ] ::1 /mmsh/index.php/Home/Index/gonggao
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000677s ]
+
+[ 2017-03-24T17:48:38+08:00 ] ::1 /mmsh/index.php/Home/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000391s ]
+
+[ 2017-03-24T17:50:16+08:00 ] ::1 /mmsh/index.php/Home/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000383s ]
+
+[ 2017-03-24T17:50:18+08:00 ] ::1 /mmsh/index.php/Home/Index/dongtaiX/id/30.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000738s ]
+
+[ 2017-03-24T17:50:42+08:00 ] ::1 /mmsh/index.php/Home/Index/dongtaiX/id/43.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000386s ]
+
+[ 2017-03-24T17:50:46+08:00 ] ::1 /mmsh/index.php/Home/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000281s ]
+
+[ 2017-03-24T17:52:36+08:00 ] ::1 /mmsh/index.php/Home/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000447s ]
+
+[ 2017-03-24T17:52:38+08:00 ] ::1 /mmsh/index.php/Home/Index/content/id/43.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000416s ]
+
+[ 2017-03-24T17:52:59+08:00 ] ::1 /mmsh/index.php/Home/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000359s ]
+
+[ 2017-03-24T17:53:09+08:00 ] ::1 /mmsh/index.php/Home/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000365s ]
+
+[ 2017-03-24T17:53:24+08:00 ] ::1 /mmsh/index.php/Home/Index/content/id/.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000492s ]
+
+[ 2017-03-24T17:53:33+08:00 ] ::1 /mmsh/index.php/Home/Index/content/id/.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000519s ]
+
+[ 2017-03-24T17:53:38+08:00 ] ::1 /mmsh/index.php/Home/Index/content/id/.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000659s ]
+
+[ 2017-03-24T17:53:44+08:00 ] ::1 /mmsh/index.php/Home/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000579s ]
+
+[ 2017-03-24T17:53:46+08:00 ] ::1 /mmsh/index.php/Home/Index/content/id/1.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000529s ]
+
+[ 2017-03-24T17:53:49+08:00 ] ::1 /mmsh/index.php/Home/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000314s ]
+
+[ 2017-03-24T17:53:52+08:00 ] ::1 /mmsh/index.php/Home/Index/content/id/3.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000304s ]
+
+[ 2017-03-24T17:55:46+08:00 ] ::1 /mmsh/index.php/Home/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000371s ]
+
+[ 2017-03-24T17:55:55+08:00 ] ::1 /mmsh/index.php/Home/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000357s ]
+
+[ 2017-03-24T17:56:01+08:00 ] ::1 /mmsh/index.php/Home/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000355s ]
+
+[ 2017-03-24T17:56:02+08:00 ] ::1 /mmsh/index.php/Home/Index/content/id/3.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000436s ]
+
+[ 2017-03-24T17:56:19+08:00 ] ::1 /mmsh/index.php/Home/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000355s ]
+
+[ 2017-03-24T17:56:21+08:00 ] ::1 /mmsh/index.php/Home/Index/content/id/4.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000422s ]
+
+[ 2017-03-24T17:56:40+08:00 ] ::1 /mmsh/index.php/Home/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000349s ]
+
+[ 2017-03-24T17:56:42+08:00 ] ::1 /mmsh/index.php/Home/Index/insider_cont/id/4.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000560s ]
+
+[ 2017-03-24T17:57:29+08:00 ] ::1 /mmsh/index.php/Home/Index/insider
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000359s ]
+
+[ 2017-03-24T17:57:31+08:00 ] ::1 /mmsh/index.php/Home/Index/contact
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000307s ]
+
+[ 2017-03-24T17:57:32+08:00 ] ::1 /mmsh/index.php/Home/Index/info
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000324s ]
+
+[ 2017-03-24T17:57:36+08:00 ] ::1 /mmsh/index.php/Home/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000363s ]
+
+[ 2017-03-24T17:57:58+08:00 ] ::1 /mmsh/index.php/Home/Index/info
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000361s ]
+
+[ 2017-03-24T17:58:02+08:00 ] ::1 /mmsh/index.php/Home/Index/zhangcheng
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000367s ]
+
+[ 2017-03-24T17:58:02+08:00 ] ::1 /mmsh/index.php/Home/Index/lib/bootstrap/js/index.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000874s ]
+ERR: 非法操作:lib
+
+[ 2017-03-24T17:58:02+08:00 ] ::1 /mmsh/index.php/Home/Index/lib/bootstrap/js/index.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000444s ]
+ERR: 非法操作:lib
+
+[ 2017-03-24T17:58:03+08:00 ] ::1 /mmsh/index.php/Home/Index/insider
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000371s ]
+
+[ 2017-03-24T17:58:05+08:00 ] ::1 /mmsh/index.php/Home/Index/insider/id/4
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000341s ]
+
+[ 2017-03-24T17:58:06+08:00 ] ::1 /mmsh/index.php/Home/Index/dongtai
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000392s ]
+
+[ 2017-03-24T17:58:08+08:00 ] ::1 /mmsh/index.php/Home/Index/dongtai/id/7
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000360s ]
+
+[ 2017-03-24T17:58:10+08:00 ] ::1 /mmsh/index.php/Home/Index/dongtai/id/7/p/2.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000355s ]
+
+[ 2017-03-24T17:58:12+08:00 ] ::1 /mmsh/index.php/Home/Index/dongtai/id/7/p/1.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000358s ]
+
+[ 2017-03-24T17:58:18+08:00 ] ::1 /mmsh/index.php/Home/Index/dongtai/id/7/p/2.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000448s ]
+
+[ 2017-03-24T17:58:22+08:00 ] ::1 /mmsh/index.php/Home/Index/dongtai/id/7/p/1.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000359s ]
+
+[ 2017-03-24T17:58:24+08:00 ] ::1 /mmsh/index.php/Home/Index/dongtai/id/7/p/2.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000353s ]
+
+[ 2017-03-24T17:58:26+08:00 ] ::1 /mmsh/index.php/Home/Index/dongtai/id/7/p/1.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000399s ]
+
+[ 2017-03-24T17:58:51+08:00 ] ::1 /mmsh/index.php/Home/Index/dongtai/id/7/p/1.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000529s ]
+
+[ 2017-03-24T17:59:07+08:00 ] ::1 /mmsh/index.php/Home/Index/dongtai/id/7/p/1.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000736s ]
+

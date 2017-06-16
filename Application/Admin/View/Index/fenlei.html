@@ -1,0 +1,145 @@
+<script>
+   var cSval;
+   function edit(th) {
+       oTh = $(th);
+       oIpt = oTh.parents(".mytypelist").find(".mytypelistval");
+       if (oTh.html() == "修改") {
+           oTh.html("保存");
+           oIpt.removeAttr("readonly");
+           cSval = oIpt.val();
+
+       } else {
+           oTh.html("修改");
+           oIpt.attr("readonly", "readonly");
+           cId = oIpt.attr('id');
+           cVal = oIpt.val();
+
+           if (cVal != "") {
+               if (cSval != cVal) {
+                   $.ajax({
+                       url: "{$U['fl_edit']}", type: "post", data: {id: cId, name: cVal}, success: function (data) {
+                           if (data.code == 0) {
+                               alert("修改失败");
+                           }
+                           window.location.href = data.url;
+                       }
+                   })
+               }
+           } else {
+               alert("分类名不能为空");
+               oTh.html("保存");
+               oIpt.removeAttr("readonly");
+           }
+       }
+   }
+   function add(th) {
+       oTh = $(th);
+       cVal = oTh.parents(".mytypelist").find(".mytypelistval").val();
+       cType = oTh.parents(".mytypelist").find(".mytypelistval").attr("id");
+       if (cVal == "") {
+           alert("请输入内容");
+       }
+       else {
+           $.ajax({
+               url: "{$U['fl_add']}", type: "post", data: {name: cVal, type: cType}, success: function (data) {
+                   if (data.code == 0) {
+                       alert("添加失败");
+                   }
+                   window.location.href = data.url;
+               }
+           });
+       }
+   }
+   function del(th) {
+       oTh = $(th);
+       oIpt = oTh.parents(".mytypelist").find(".mytypelistval");
+       cId = oIpt.attr('id');
+
+       $.ajax({
+           url: "{$U['fl_del']}", type: "post", data: {id: cId}, success: function (data) {
+               if (data.code == 0) {
+                   alert("删除失败");
+               }
+               window.location.href = data.url;
+           }
+       })
+   }
+</script>
+<!--分类名字-->
+<div class = "row">
+    <div class = "col-lg-12 col-md-12  col-xs-12">
+        <h1>&nbsp;&nbsp;&nbsp;公告分类</h1></div>
+</div>
+<!--分类项-->
+<Volist name = "type[1]" id = "val">
+<div class = "row mytypelist" style = "margin-bottom: 5px;">
+    <div class = "col-lg-2 col-lg-offset-1 col-md-3 col-md-offset-1 col-xs-8 ">
+        <input class = "form-control mytypelistval" type = "text" value = "{$val.name}" id = "{$val.id}" readonly>
+    </div>
+    <div class = "col-lg-1 col-md-1 col-xs-2">
+        <button class = "btn btn-info" onclick = "edit(this);">修改</button>
+    </div>
+    <div class = "col-lg-1 col-md-1 col-xs-2 text-center">
+        <button class = "btn btn-danger" onclick = "del(this)">删除</button>
+    </div>
+</div>
+</Volist>
+<!--添加项-->
+<div class = "row mytypelist">
+    
+    <div class = "col-lg-2 col-lg-offset-1 col-md-3 col-md-offset-1 col-xs-8"><input class = "form-control mytypelistval" type = "text" id = "1"> </div>
+    <div class = "col-lg-1 col-lg-offset-1 col-md-1 col-md-offset-1 col-xs-2 col-xs-offset-2 text-center "><button class = "btn btn-primary" onclick = "add(this)">+添加</button>
+    </div>
+</div>
+<!--分类名字-->
+<div class = "row">
+    <div class = "col-lg-12 col-md-12  col-xs-12">
+        <h1>&nbsp;&nbsp;&nbsp;动态分类</h1></div>
+</div>
+<!--分类项-->
+<Volist name = "type[2]" id = "val">
+<div class = "row mytypelist" style = "margin-bottom: 5px;">
+    <div class = "col-lg-2 col-lg-offset-1 col-md-3 col-md-offset-1 col-xs-8 ">
+        <input class = "form-control mytypelistval" type = "text" value = "{$val.name}" id = "{$val.id}" readonly>
+    </div>
+    <div class = "col-lg-1 col-md-1 col-xs-2">
+        <button class = "btn btn-info" onclick = "edit(this);">修改</button>
+    </div>
+    <div class = "col-lg-1 col-md-1 col-xs-2 text-center">
+        <button class = "btn btn-danger" onclick = "del(this)">删除</button>
+    </div>
+</div>
+</Volist>
+<!--添加项-->
+<div class = "row mytypelist">
+    
+    <div class = "col-lg-2 col-lg-offset-1 col-md-3 col-md-offset-1 col-xs-8"><input class = "form-control mytypelistval" type = "text" id = "2"> </div>
+    <div class = "col-lg-1 col-lg-offset-1 col-md-1 col-md-offset-1 col-xs-2 col-xs-offset-2 text-center "><button class = "btn btn-primary" onclick = "add(this)">+添加</button>
+    </div>
+</div>
+<!--分类名字-->
+<div class = "row">
+    <div class = "col-lg-12 col-md-12  col-xs-12">
+        <h1>&nbsp;&nbsp;&nbsp;会员分类</h1></div>
+</div>
+<!--分类项-->
+<Volist name = "type[3]" id = "val">
+<div class = "row mytypelist" style = "margin-bottom: 5px;">
+    <div class = "col-lg-2 col-lg-offset-1 col-md-3 col-md-offset-1 col-xs-8 ">
+        <input class = "form-control mytypelistval" type = "text" value = "{$val.name}" id = "{$val.id}" readonly>
+    </div>
+    <div class = "col-lg-1 col-md-1 col-xs-2">
+        <button class = "btn btn-info" onclick = "edit(this);">修改</button>
+    </div>
+    <div class = "col-lg-1 col-md-1 col-xs-2 text-center">
+        <button class = "btn btn-danger" onclick = "del(this)">删除</button>
+    </div>
+</div>
+</Volist>
+<!--添加项-->
+<div class = "row mytypelist">
+    
+    <div class = "col-lg-2 col-lg-offset-1 col-md-3 col-md-offset-1 col-xs-8"><input class = "form-control mytypelistval" type = "text" id = "3"> </div>
+    <div class = "col-lg-1 col-lg-offset-1 col-md-1 col-md-offset-1 col-xs-2 col-xs-offset-2 text-center "><button class = "btn btn-primary" onclick = "add(this)">+添加</button>
+    </div>
+</div>

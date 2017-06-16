@@ -1,0 +1,152 @@
+<!--中间图片部分-->
+<div class="section">
+  <div class="container-fluid">
+    <div class = "row">
+      <div class = "banner">
+        <div class="bigImg"
+             style="background-image:url(http://www.gdgcc.gov.cn/templates/default/images/bigImg1.jpg);">&nbsp;
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class="section" style="background-color:#e6e6fa;">
+  <div class="container">
+    <div class="row Mp">
+
+      <div class = "col-md-3 padding-none">
+        <div class = "sideMenu">
+        
+        
+
+<!--带箭头的栏目块，开始--> 
+<div class = "sideTit" style="background-color:#d60011;">
+            <a href = "{$U['Index_info']}" style="display:inline-block;text-decoration: none;">
+                <h3>
+                    <i class="fa fa-shopping-bag" aria-hidden="true" style="color:#930000;"></i>
+                    &nbsp;商会介绍</h3>
+                <p style="margin-left:20px;">introduces</p>
+            </a>
+
+<style>
+@media (max-width: 768px){	
+	.c2{
+		display:inline-block !important;
+	}	
+}
+@media (min-width: 769px){	
+	#navbar-ex-collapse2{
+		display:none !important;
+	}	
+}
+</style>
+     <!--按钮，默认隐藏，用来控制下拉菜单的显示；小屏幕显示-->
+     <div class="navbar navbar-default c2" style="background-color:#d60011; border:none; display:block !important; width:100px !important; float:right;padding-top:30px;">
+      <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#navbar-ex-collapse2" style=" background-image:url(__PUBLIC__/images/downArrow.png); width:30px; height:30px; border:none; background-repeat:no-repeat !important;	background-size:100% 100% !important;" >
+      <!-- 
+        <span class="sr-only">Toggle navigation</span>
+        <span class="icon-bar"></span>
+        <span class="icon-angle-down" style=" background-image:url(__PUBLIC__/images/downArrow.png) !important; "></span>
+        <span class="icon-angle-down"></span>
+        _xc-->
+      </button>
+      <!--<a class="navbar-brand" href="#"><span>Brand</span></a>-->
+</div>
+
+	<!--下拉菜单-->
+    <div class="collapse navbar-collapse" id="navbar-ex-collapse2" >
+      <ul class="nav navbar-nav navbar-right text-center">
+        <li>
+          <a href="{$U['Index_info']}">商会详细介绍</a>
+        </li>
+        <li>
+          <a href="{$U['Index_info_lingdao']}">领导人介绍</a>
+        </li>
+        <li>
+          <a href="{$U['Index_info_shjg']}">商会结构</a>
+        </li><li>
+        <a href="#">入会程序</a>
+      </li>
+        <li>
+          <a href="{$U['Index_zhangcheng']}">商会章程</a>
+        </li>
+
+      </ul>
+    </div>
+</div>
+<!--带箭头的栏目块，结束-->
+
+
+          <ul class = "sideMenuNav hidden-xs">
+            <li class = "hidden-xs"><a href = "{$U['Index_info']}">商会详细介绍</a></li>
+            <li class = "hidden-xs"><a href = "{$U['Index_info_lingdao']}">领导人介绍</a></li>
+            <li class = "on hidden-xs"><a href = "{$U['Index_info_shjg']}">商会结构</a></li>
+            <li class = "hidden-xs"><a href = "#">入会程序</a></li>
+            <li class = "hidden-xs"><a href = "{$U['Index_zhangcheng']}">商会章程</a></li>
+          </ul>
+
+        </div>
+
+
+        <div class = "sideContact hidden-xs" style = "background-image:url(__PUBLIC__/images/contactBg.jpg);">
+          <div class = "sideContactTit">
+            <a style="text-decoration:none;">
+                <i style="color:#930000;" class="fa fa-comment" aria-hidden="true"></i>
+                &nbsp;联系我们
+            </a>
+          </div>
+            <div class="sideContactBox">
+                  <ul class="fa-ul">
+                            <li><i class="fa-li fa fa-address-book" aria-hidden="true"></i>{$info->address}<</li>
+                            <li><i class="fa-li fa fa-phone" aria-hidden="true"></i>{$info->tel}</li>
+                            <li><i class="fa-li fa fa-envelope" aria-hidden="true"></i>{$info->email}</li>
+                            <li><i class="fa-li fa fa-fax" aria-hidden="true"></i>{$info->fax}</li>
+                        </ul>
+
+            </div>
+        </div>
+      </div>
+
+
+
+      <div class = "col-md-9" style="background:#e6e6fa;">
+        <div class="Ml">
+        <div class = "path">
+          <div class="info">
+            <strong>商会结构</strong>
+          </div>
+          <div class = "pathdiv">
+            <a href = "{$U['Index_index']}.html" style = "text-decoration: none;">
+              首页
+            </a>
+            <span>></span>
+           <a href = "{$U['Index_info']}.html">
+             商会介绍
+           </a>
+            <span>></span>
+           <a class= "on">商会结构</a>
+          </div>
+        </div>
+        
+        
+<style>
+@media (min-width: 769px){	
+	.divImageShow{
+		height:800px;
+	}	
+}
+</style>
+        <div style="background-color:#FFFFFF;" class="divImageShow">
+        
+        <image src="__PUBLIC__/images/zuzhijiagou_pc.jpg" style="width:100%;"></image>
+        </div>
+      </div>
+      
+  </div>
+    </div>
+</div>
+</div>
+      <!--让内容，和底部footer空出一点距离-->
+      <div style="height:15px; width:100%;"></div>
+<script src = "__PUBLIC__/lib/bootstrap/js/index.js"></script>

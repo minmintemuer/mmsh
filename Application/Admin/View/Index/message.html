@@ -1,0 +1,82 @@
+<div class = "row">
+	<div class = "col-lg-12">
+	<h1>留言内容</h1>
+	</div>
+	</div>
+<volist name="list" id="val" >
+<div class = "row rowactive" style = "margin: 5px;">
+	<div></div>
+  <div class = "col-lg-2 col-lg-offset-1">
+    <div class = "row" style = "position: relative">
+	    <div class = "biaoji"><?php echo $val['flag']==0?'<div class = "wcl">未处理</div>':'<div class = "ycl">已处理</div>';?></div>
+     <div class = "col-lg-12"><h4>姓&nbsp;名:{$val.name}</h4></div>
+      <div class = "col-lg-12"><h4>电&nbsp;话:{$val.phone}</h4></div>
+   <div class = "col-lg-12"><h4>邮&nbsp;箱:{$val.email}</h4></div>
+  
+    </div>
+  </div>
+	<div class = "col-lg-3" style = "word-break:break-all">
+	 <div class = "row">
+	 <div class = "col-lg-12"><span style = "color: mediumblue">--------内容--------</span><p>
+    {$val.cont}</p>{$val.cdate}</div>
+		<?php echo  $val['recont']!=null?"<div class = 'col-lg-12'><span style = 'color: #47cd6c'>--------回复--------</span><p>".$val['recont']."</p>".$val['cdate']."</div>":""; ?>
+		 
+	 </div>
+	 </div>
+  <div class = "col-lg-1 mymes">
+	  <input type="hidden" class="mid" value="{$val.id}" style="display: none">
+	  <div class = "col-lg-12">&nbsp;</div>
+    <div class = "col-lg-12" style = "margin-top:5px "><button class = "btn btn-sm btn-success" onclick="re(this)">回复</button></div>
+	<div class = "col-lg-12" style = "margin-top:5px "><button  class = "btn btn-sm btn-info" onclick="bj(this)">标记</button></div>
+    <div class = "col-lg-12" style = "margin-top:5px "><button class = "btn btn-sm btn-danger" onclick="del(this)">删除</button></div>
+  </div>
+</div>
+</volist>
+<script>
+	var cId;
+	function bj(oThis) {
+	   var cId=$(oThis).parents('.mymes').find('.mid').val();
+		$.ajax({
+            url: "{$U['ly_bj']}", type: "post", data: {id: cId}, success: function () {
+
+                location.reload();
+            }
+        });
+		
+    }
+    function del(oThis) {
+        var cId = $(oThis).parents('.mymes').find('.mid').val();
+        $.ajax({
+            url: "{$U['dm']}", type: "post", data: {id: cId}, success: function () {
+
+                location.reload();
+            }
+        });
+
+
+    }
+    
+    function re(oThis) {
+	   $('#recid').val($(oThis).parents('.mymes').find('.mid').val());
+        $('#myModal').modal('show');
+    }
+</script>
+<div class="modal fade" id="myModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
+  <div class="modal-dialog" role="document">
+    <div class="modal-content">
+      <div class="modal-header">
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+        <h4 class="modal-title" id="myModalLabel">回复留言:</h4>
+      </div>
+      <div class="modal-body">
+	      <form action="{$U['rem']}" id="messform" method="post">
+	      <input type="hidden" name="id" value="" id="recid" style="display: none">
+        <textarea  name="cont"  rows="10" style="width: 100%"></textarea></form>
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-default" data-dismiss="modal">关闭</button>
+        <button type="button" class="btn btn-primary" onclick="$('#messform').submit()">回复</button>
+      </div>
+    </div>
+  </div>
+</div>

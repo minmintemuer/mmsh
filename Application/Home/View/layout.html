@@ -1,0 +1,122 @@
+<!doctype html>
+<html>
+<head>
+    <meta charset = "utf-8">
+    <meta name = "viewport" content = "width=device-width, initial-scale=1">
+    <meta name = "keywords" content = "{$seo->keywords}">
+    <meta name = "author" content = "{$seo->author}">
+    <meta name = "discription" content = "{$seo->discription}">
+    <title>重庆茂名商会</title>
+    <link rel = "stylesheet" type = "text/css" href = "__PUBLIC__/lib/bootstrap/css/bootstrap.css" media = 'all'>
+    <script type = 'text/javascript' src = '__PUBLIC__/lib/bootstrap/js/jquery-2.1.1.min.js'></script>
+    <script type = "text/javascript" src = "__PUBLIC__/js/jquery-1.11.1.js"></script>
+    <script type="text/javascript" src= "__PUBLIC__/js/jquery.js"></script>
+
+    <script type="text/javascript" src= "__PUBLIC__/lib/bootstrap/js/bootstrap.min.js"></script>
+
+
+
+    <link rel = "stylesheet" href = "__PUBLIC__/css/app.css" type = "text/css">
+    <link rel="stylesheet" href="__PUBLIC__/font-awesome-4.7.0/css/font-awesome.min.css">
+
+
+    <!--原style已被删除-->
+    <style>
+        .no-padding{
+            padding:0;
+        }
+    </style>
+
+</head>
+<body>
+<!--顶部logo图片开始-->
+<div class = "section" style = "margin:20px;">
+    <div class = "container-fluid">
+        <div class = "row">
+            <div class = "enwidth">
+                <div class = "col-md-4 col-lg-4 col-xs-12">
+                    <img src = "__PUBLIC__/images/top_banner.jpg" style="width:100%;height:100%;"/>
+                </div>
+                <div class = "col-md-4 col-lg-4">
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<!--顶部logo图片结束-->
+<!--导航开始-->
+<div class="navbar navbar-default navbar-static-top" style="background-color:#d60011;">
+    <div class="container">
+        <div class="navbar-header">
+            <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#navbar-ex-collapse">
+                <span class="sr-only">Toggle navigation</span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+            </button>
+
+        </div>
+        <div class="collapse navbar-collapse" id="navbar-ex-collapse">
+            <ul class="nav navbar-nav navbar-right text-center">
+                <li>
+                    <a  href="{$U['Index_index']}.html">首页</a>
+                </li>
+                <li>
+                    <a href="{$U['Index_info']}.html">商会介绍</a>
+                </li>
+                <li>
+                    <a href="{$U['Index_insider']}.html">商会会员</a>
+                </li>
+                <li>
+                    <a href="{$U['Index_dongtai']}.html">商会动态</a>
+                </li>
+                <li>
+                <a href="{$U['Index_gonggao']}.html">商会公告</a>
+            </li>
+                <li>
+                    <a href="{$U['Index_contact']}.html">联系方式</a>
+                </li>
+            </ul>
+        </div>
+    </div>
+</div>
+{__CONTENT__}
+<div class="section" style="background-color:#5a5a5a; ">
+    <div class="container">
+        <div class = "row">
+            <div class = "col-md-6 col-lg-6 col-xs-12">
+                <div class = "copyright">
+                    <h4>重庆李子坝餐饮有限公司</h4>
+                    <p>地址：重庆市渝中区李子坝正街66号附4号(李子坝公园加班狗办公大楼) &nbsp;&nbsp;邮箱：luyin@liziba.com</p>
+                    <p>COPYRIGHT@2016 重庆李子坝餐饮有限公司 all rights reserved. 渝ICP备14001415号-1</p>
+                </div>
+            </div>
+            <div class = "col-md-6 col-lg-6 col-xs-12">
+                <figure class = "qrcode-wrap">
+                    <img src = "__PUBLIC__/images/qrcode.jpg" alt = "">
+                    <p>李子坝梁山鸡微信公众号</p>
+                </figure>
+                <figure class = "qrcode-wrap">
+                    <img src = "__PUBLIC__/images/qrcode.jpg" alt = "">
+                    <p>招商加盟微信公众号</p>
+                </figure>
+            </div>
+        </div>
+    </div>
+</div>
+<script type="text/javascript">
+    $(document).ready(function(){
+        $("ul li").eq({$num}).css({"background-color":"#ffcc00","border-radius":"10px 10px 0 0"});
+        $("ul li").eq({$num}).children().css({"color":"#333"});
+        $("ul").mouseover(function(){
+            $("ul").children().css({"background-color":"","border-radius":""});
+            $("ul").children().children().css({"color":""});
+        });
+        $("ul").mouseleave(function(){
+            $("ul li").eq({$num}).css({"background-color":"#ffcc00","border-radius":"10px 10px 0 0"});
+            $("ul li").eq({$num}).children().css({"color":"#333"});
+        });
+    });
+</script>
+</body>
+</html>

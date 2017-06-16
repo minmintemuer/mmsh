@@ -1,0 +1,137 @@
+<!--导航结束-->
+<div class="section">
+    <div class="container-fluid">
+        <div class = "row">
+            <div class = "banner">
+                <div class="bigImg" style="background-image:url(http://www.gdgcc.gov.cn/templates/default/images/bigImg1.jpg);">&nbsp;
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="section"  style="background-color:#e6e6fa;">
+    <div class="container">
+        <div class="row Mp">
+            <div class="col-md-3 padding-none">
+                <div class="sideMenu">
+                    <!--带箭头的栏目块，开始-->
+                    <div class = "sideTit" style="background-color:#d60011;">
+                        <a href = "{$U['Index_info']}.html" style="display:inline-block;text-decoration:none;">
+                            <h3>
+                                <i style="color:#930000;" class="fa fa-comment" aria-hidden="true"></i>
+                                &nbsp;联系方式
+                            </h3>
+                            <p style="margin-left:25px;">contact</p>
+                        </a>
+                        <style>
+                            @media (max-width: 768px){
+                                .c2{
+                                    display:inline-block !important;
+                                }
+                            }
+                            @media (min-width: 769px){
+                                #navbar-ex-collapse2{
+                                    display:none !important;
+                                }
+                            }
+                        </style>
+                        <!--按钮，默认隐藏，用来控制下拉菜单的显示；小屏幕显示-->
+                        <div class="navbar navbar-default c2" style="background-color:#d60011; border:none; display:block !important;
+                            width:100px !important;
+                            float:right;
+                           padding-top:30px;">
+                            <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#navbar-ex-collapse2" style=" background-image:url(__PUBLIC__/images/downArrow.png); width:30px; height:30px;border:none;
+               background-repeat:no-repeat !important;
+               	background-size:100% 100% !important;" ></button>
+                        </div>
+                        <!--下拉菜单-->
+                        <div class="collapse navbar-collapse" id="navbar-ex-collapse2" >
+                            <ul class="nav navbar-nav navbar-right text-center">
+                                <li>
+                                    <a href="{$U['Index_contact']}.html">联系方式</a>
+                                </li>
+                                <li>
+                                    <a href="{$U['Index_message']}.html">留言系统</a>
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+                    <ul class="sideMenuNav hidden-xs">
+                        <li class="on hidden-xs">
+                            <a class="cur" href="{$U['Index_contact']}.html">联系方式</a>
+                        </li>
+                        <li class="hidden-xs">
+                            <a  href="{$U['Index_message']}.html">留言系统</a>
+                        </li>
+                    </ul>
+                </div>
+                <div class="sideContact hidden-xs">
+                    <div class="sideContactTit">
+                        <a style="text-decoration:none;">
+                            <i style="color:#930000;" class="fa fa-comment" aria-hidden="true"></i>
+                            联系我们
+                        </a>
+                    </div>
+                    <div class="sideContactBox">
+                        <ul class="fa-ul">
+                            <li><i class="fa-li fa fa-address-book" aria-hidden="true"></i>{$info->address}</li>
+                            <li><i class="fa-li fa fa-phone" aria-hidden="true"></i>{$info->tel}</li>
+                            <li><i class="fa-li fa fa-envelope" aria-hidden="true"></i>{$info->email}</li>
+                            <li><i class="fa-li fa fa-fax" aria-hidden="true"></i>{$info->fax}</li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-9" style="background-color:#e6e6fa;">
+                <div class="Ml" style="height:800px;">
+                    <div class="path">
+                        <div class="message">
+                            <strong>联系我们</strong>
+                        </div>
+                    </div>
+                    <div class="contactmessage" style="margin:30px 10px 10px 30px;height:800px;">
+                        <div class="section">
+                            <div class="container">
+                                <div class="row">
+                                    <div class="col-md-6">
+                                        <div class="contactX">
+                                            <span style="font-size:24px;margin-top:40px;">
+                                                <strong>联系方式</strong>
+                                            </span>
+                                            <div style="margin-top:50px;">
+                                                <h5>
+                                                    <strong>
+                                                     地址:
+                                                    </strong>
+                                                    {$info->address}
+                                                </h5>
+                                                <h5>
+                                                    <strong>电话:</strong>{$info->tel}
+                                                </h5>
+                                                <h5>
+                                                    <strong>邮箱:</strong>{$info->email}
+                                                </h5>
+                                                <h5>
+                                                    <strong>传真:</strong>{$info->fax}
+                                                </h5>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="row" style="margin-top:40px;">
+                                    <div class="col-md-12">
+                                        <iframe style="width:100%;height:300px;position:relative;"src="http://adm.liziba.com/admin/public/plugin/kindEditor/plugins/baidumap/index.html?center=106.555176%2C29.564868&zoom=19&width=558&height=360&markers=106.555176%2C29.564868&markerStyles=l%2CA" frameborder="0">
+                                        </iframe>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+</div>
+<!--让内容，和底部footer空出一点距离-->
+<div style="height:15px; width:100%;"></div>

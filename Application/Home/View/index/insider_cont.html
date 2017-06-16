@@ -1,0 +1,80 @@
+<div class="section">
+    <div class="container-fluid">
+        <div class = "row">
+            <div class = "banner">
+                <div class="bigImg"
+                     style="background-image:url(http://www.gdgcc.gov.cn/templates/default/images/bigImg1.jpg);">&nbsp;
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="section" style="background-color:#e6e6fa;">
+    <div class="container">
+        <div class="row Mp">
+        <div class="col-md-3 padding-none">
+            <div class="sideMenu">
+                <div class="sideTit">
+                    <a style="text-decoration:none;"href="{$U['Index_insider']}">
+                        <h3>
+                            <i class="fa fa-user-circle" aria-hidden="true" style="color:#930000;"></i>
+                            &nbsp;商会会员</h3>
+                        <p style="margin-left:20px;">member</p>
+                    </a>
+                </div>
+                <ul class="sideMenuNav hidden-xs">
+                    <volist name="leibie" id="data">
+                        <if condition="$data.id == $leiming['typeid']">
+                            <li class="21 on">
+                                <else /><li class="21">
+                        </if>
+                        <i class="ibg">&nbsp;</i>
+                        <a  href="{$U['Index_insider']}/id/{$data.id}">{$data.name}</a>
+                        </li>
+                    </volist>
+                </ul>
+            </div>
+            <div class="sideContact hidden-xs">
+                <div class="sideContactTit">
+                    <a>
+                        <i style="color:#930000;" class="fa fa-comment" aria-hidden="true"></i>
+                        联系我们
+                    </a>
+                </div>
+                <div class="sideContactBox">
+                       <ul class="fa-ul">
+                            <li><i class="fa-li fa fa-address-book" aria-hidden="true"></i>{$info->address}</li>
+                            <li><i class="fa-li fa fa-phone" aria-hidden="true"></i>{$info->tel}</li>
+                            <li><i class="fa-li fa fa-envelope" aria-hidden="true"></i>{$info->email}</li>
+                            <li><i class="fa-li fa fa-fax" aria-hidden="true"></i>{$info->fax}</li>
+                        </ul>
+            </div>
+        </div>
+        </div>
+        <div class="col-md-9" style="background-color:#e6e6fa;height:auto;">
+            <div class="Ml">
+            <div class="path">
+                <div class="insider">
+                    <strong>{$leiming.name}</strong>
+                </div>
+                <div class="pathdiv" style="margin-top:20px;">
+                    <a href="{$U['Index_index']}.html" style="text-decoration: none;">
+                        首页
+                    </a>
+                    <span>&gt;</span>
+                    <a href="{$U['Index_insider']}.html">商户会员</a>
+                    <span>&gt;</span>
+                    <span href="" class="on">{$leiming.name}</span>
+                </div>
+            </div>
+                <div style="margin-top:40px;">
+            {$content.content}
+            </div>
+            </div>
+        </div>
+    </div>
+</div>
+</div>
+<!--让内容，和底部footer空出一点距离-->
+<div style="height:15px; width:100%;"></div>
+

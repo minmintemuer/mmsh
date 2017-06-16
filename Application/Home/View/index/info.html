@@ -1,0 +1,136 @@
+<!--中间图片部分-->
+<div class="section">
+    <div class="container-fluid">
+        <div class = "row">
+            <div class = "banner">
+                <div class="bigImg" style="background-image:url(http://www.gdgcc.gov.cn/templates/default/images/bigImg1.jpg);">&nbsp;</div>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="section" style="background-color:#e6e6fa;">
+    <div class="container">
+        <div class="row Mp">
+            <div class = "col-md-3 padding-none">
+                <div class = "sideMenu">
+                    <!--带箭头的栏目块，开始-->
+                    <div class = "sideTit" style="background-color:#d60011;">
+                        <a href = "{$U['Index_info']}" style="display:inline-block;text-decoration:none;">
+                            <h3>
+                                <i class="fa fa-shopping-bag" aria-hidden="true" style="color:#930000;"></i>
+                                &nbsp;商会介绍
+                            </h3>
+                            <p style="margin-left:20px;">introduces</p>
+                        </a>
+                        <style>
+                            @media (max-width: 768px){
+                                .c2{
+                                    display:inline-block !important;
+                                }
+                            }
+                            @media (min-width: 769px){
+                                #navbar-ex-collapse2{
+                                    display:none !important;
+                                }
+                            }
+                        </style>
+                        <!--按钮，默认隐藏，用来控制下拉菜单的显示；小屏幕显示-->
+                        <div class="navbar navbar-default c2" style="background-color:#d60011; border:none; display:block !important;width:100px !important;float:right;padding-top:30px;">
+                            <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#navbar-ex-collapse2" style=" background-image:url(__PUBLIC__/images/downArrow.png);width:30px; height:30px; border:none; background-repeat:no-repeat !important;background-size:100% 100% !important;" ></button>
+                        </div>
+                        <!--下拉菜单-->
+                        <div class="collapse navbar-collapse" id="navbar-ex-collapse2" >
+                            <ul class="nav navbar-nav navbar-right text-center">
+                                <li>
+                                    <a href="{$U['Index_info']}">商会详细介绍</a>
+                                </li>
+                                <li>
+                                    <a href="{$U['Index_info_lingdao']}">领导人介绍</a>
+                                </li>
+                                <li>
+                                    <a href="{$U['Index_info_shjg']}">商会结构</a>
+                                </li>
+                                <li>
+                                    <a href="#">入会程序</a>
+                                </li>
+                                <li>
+                                    <a href="{$U['Index_zhangcheng']}">商会章程</a>
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+                    <!--带箭头的栏目块，结束-->
+                    <ul class = "sideMenuNav hidden-xs">
+                        <li class = "on hidden-xs"><a href = "{$U['Index_info']}">商会详细介绍</a></li>
+                        <li class = "hidden-xs"><a href = "{$U['Index_info_lingdao']}">领导人介绍</a></li>
+                        <li class = "hidden-xs"><a href = "{$U['Index_info_shjg']}">商会结构</a></li>
+                        <li class = "hidden-xs"><a href = "#">入会程序</a></li>
+                        <li class = "hidden-xs"><a href = "{$U['Index_zhangcheng']}">商会章程</a></li>
+                    </ul>
+                </div>
+                <div class = "sideContact hidden-xs">
+                    <div class = "sideContactTit">
+                        <a style="text-decoration:none;">
+                            <i style="color:#930000;" class="fa fa-comment" aria-hidden="true"></i>
+                            联系我们
+                        </a>
+                    </div>
+                    <div class="sideContactBox">
+                        <ul class="fa-ul">
+                            <li><i class="fa-li fa fa-address-book" aria-hidden="true"></i>{$info->address}</li>
+                            <li><i class="fa-li fa fa-phone" aria-hidden="true"></i>{$info->tel}</li>
+                            <li><i class="fa-li fa fa-envelope" aria-hidden="true"></i>{$info->email}</li>
+                            <li><i class="fa-li fa fa-fax" aria-hidden="true"></i>{$info->fax}</li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+            <div class = "col-md-9" style="background:#e6e6fa;">
+                <div class="Ml">
+                    <div class = "path">
+                        <div class="info">
+                            <strong>商会详细介绍</strong>
+                        </div>
+                        <div class = "pathdiv">
+                            <a href = "{$U['Index_index']}.html" style = "text-decoration: none;">首页</a>
+                            <span>></span>
+                            <a href = "{$U['Index_info']}.html">商会介绍</a>
+                            <span>></span><a class= "on">商会详细介绍</a>
+                        </div>
+                    </div>
+                    <p class="text1">
+          &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+          广东省工商业联合会成立于1953年，同时称“广东省总商会”，
+          是全国工商联的地方组织，中国人民政治协商会议广东省委员会的组成单位之一。
+          工商联是以非公有制企业和非公有制经济人士为主体的人民团体和商会组织，政府联系非公有制经济人士的桥梁纽带,
+          政府管理和服务非公有制经济的助手。
+        </p>
+        <p>&nbsp; &nbsp; &nbsp; 广东省工商业联合会成立于1953年，同时称&ldquo;广东省总商会&rdquo;，是全国工商联的地方组织，中国人民政治协商会议广东省委员会的组成单位之一。工商联是以非公有制企业和非公有制经济人士为主体的人民团体和商会组织，政府联系非公有制经济人士的桥梁纽带,政府管理和服务非公有制经济的助手。</p>
+        <p>&nbsp;</p>
+        <p><strong>主要职能</strong></p>
+        <p>&nbsp; &nbsp; &nbsp; 加强非公有制经济人士思想政治工作，指导非公有制企业党建工作。引导非公有制经济人士积极参与国家政治生活和社会事务，政治协商、民主监督、参政议政。发挥政府管理和服务非公有制经济中的助手作用。 联系、指导非公有制经济商会协会。搭建对外经贸交流与合作平台。 引导非公有制经济人士履行社会责任，积极参与社会公益事业。 为会员企业提供法律服务，维护非公有制企业合法权益。</p>
+        <p>&nbsp;</p>
+        <p><strong>组织概况</strong></p>
+        <p>
+        <p>&nbsp; &nbsp; &nbsp; &nbsp;截至2015年底，全省工商联会员超过28万名，有141个地方组织，1513个基层组织。全省工商联会员中，有全国人大代表40名，全国政协委员34名，省人大代表168名，省政 协委员121名。</p>
+        <p>&nbsp; &nbsp; &nbsp; 省工商联兼职主席（会长）1名，党组书记1名，专职副主席（副会长）4名，兼职副 主席、副会长44名。机关内设办公室（光彩办）、人事教育部、党办（非公经济党委办公室）、会员工作部、联络部、经济科技与信息部、宣传调研部。省民营企业投诉中心也设在省工商联。主办《新粤商》杂志，并设有网站：<a href = "http://www.gdgcc.gov.cn/">www.gdgcc.gov.cn</a>
+        </p>
+        <p>部室联系电话</p>
+        <p>办公室：83332173</p>
+        <p>人事部：83352746</p>
+        <p>机关党办&nbsp;:83347921</p>
+        <p>会员工作部 ：83343395</p>
+        <p>联络部：83236799</p>
+        <p>经济科技与信息部：83322278</p>
+        <p>宣传调研部：83237086</p>
+        <p>民营企业投诉中心：83191888</p>
+        <p>&nbsp;<img src = "http://gdgccgovcn.s62.uweb.com.cn/upfile/2016/05/05/20160505084324_193.jpg" alt = ""/>
+        </p>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<!--让内容，和底部footer空出一点距离-->
+<div style="height:15px; width:100%;"></div>
+<script src = "__PUBLIC__/lib/bootstrap/js/index.js"></script>

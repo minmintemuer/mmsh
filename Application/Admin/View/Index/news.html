@@ -1,0 +1,43 @@
+<form action = "{$U['content']}" method="post" id="contype">
+  <input type = "hidden" name="type" id="type" value="2" style="display: none">
+  <input type = "hidden" name="tab" value="{$tab}" style="display: none">
+</form>
+<div class = "row">
+  <div class = "col-lg-12 col-md-12 col-xs-12">
+    <h1>动态信息</h1><button class="btn btn-primary" onclick="$('#contype').attr('action','{$U["content"]}').submit();">+添加动态</button>
+  </div>
+</div>
+<div class = "row text-center">
+  <div class = "col-lg-5 col-md-5 col-xs-9"><h4>标题</h4></div>
+  <div class = "col-lg-2 col-md-2 col-xs-2"><h4>分类</h4></div>
+  <div class = "col-lg-2 col-md-1 col-xs-2"><h4>排序权重</h4></div>
+  <div class = "col-lg-2 col-md-4 col-xs-12 text-center">
+    <h4>操作</h4>
+  </div>
+</div>
+<volist name="list" id="val">
+<div class = "row rowactive text-center">
+  <input type="hidden" value="{$val.id}" style="display: none" class="listval">
+  <div class = "col-lg-5 col-md-5 col-xs-9"><h4>{$val.name}</h4></div>
+  <div class = "col-lg-2 col-md-2 col-xs-2"><h4>{$val.type}</h4></div>
+  <div class = "col-lg-2 col-md-1 col-xs-2"><h4>{$val.seq}</h4></div>
+  <div class = "col-lg-2 col-md-4 col-xs-12 text-center">
+    <button class = "btn btn-info" onclick="edit(this)">编辑</button>&nbsp;
+    <button class = "btn btn-danger" onclick="del(this);">删除</button>
+  </div>
+</div>
+</volist>
+<div class="row text-center">{$page}</div>
+<script>
+  function edit(oThis) {
+      cId=$(oThis).parents(".rowactive").find(".listval").val();
+      $('#contype').find("#type").val(cId);
+      $('#contype').attr('action','{$U["editgcont"]}').submit();
+  }
+  function del(oThis) {
+      cId=$(oThis).parents(".rowactive").find(".listval").val();
+      $('#contype').find("#type").val(cId);
+      $('#contype').attr('action','{$U["dc"]}').submit();
+
+  }
+</script>

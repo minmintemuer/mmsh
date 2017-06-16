@@ -1,0 +1,173 @@
+<!--中间导航菜单-->
+<div class="section">
+    <div class="container-fluid">
+        <div class = "row">
+            <div class = "banner">
+                <div class="bigImg"
+                     style="background-image:url(http://www.gdgcc.gov.cn/templates/default/images/bigImg1.jpg);">&nbsp;
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<!--中间装饰图片-->
+<div class="section" style="background-color:#e6e6fa;">
+    <div class="container">
+        <div class="row Mp">
+            <div class="col-md-3 padding-none">
+                <div class="sideMenu">
+                    <!--带箭头的栏目块，开始-->
+                    <div class = "sideTit" style="background-color:#d60011;">
+                        <a href = "{$U['Index_info']}.html" style="display:inline-block;text-decoration:none;">
+                            <h3><i class="fa fa-shopping-bag" aria-hidden="true" style="color:#930000;"></i>
+                                &nbsp;
+                                商会介绍
+                            </h3>
+                            <p style="margin-left:20px;">introduces</p>
+                        </a>
+                        <style>
+                            @media (max-width: 768px){
+                                .c2{
+                                    display:inline-block !important;
+                                }
+                            }
+                            @media (min-width: 769px){
+                                #navbar-ex-collapse2{
+                                    display:none !important;
+                                }
+                            }
+                        </style>
+                        <!--按钮，默认隐藏，用来控制下拉菜单的显示；小屏幕显示-->
+                        <div class="navbar navbar-default c2" style="background-color:#d60011; border:none; display:block !important; width:100px !important; float:right;padding-top:30px;">
+                            <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#navbar-ex-collapse2" style=" background-image:url(__PUBLIC__/images/downArrow.png); width:30px; height:30px; border:none; background-repeat:no-repeat !important;	background-size:100% 100% !important;" >
+                            </button>
+                        </div>
+                <!--下拉菜单-->
+                        <div class="collapse navbar-collapse" id="navbar-ex-collapse2" >
+                            <ul class="nav navbar-nav navbar-right text-center">
+                                <li>
+                                    <a href="{$U['Index_info']}.html">商会详细介绍</a>
+                                </li>
+                                <li>
+                                    <a href="{$U['Index_info_lingdao']}.html">领导人介绍</a>
+                                </li>
+                                <li>
+                                    <a href="{$U['Index_info_shjg']}.html">商会结构</a>
+                                </li>
+                                <li>
+                                    <a href="#">入会程序</a>
+                                </li>
+                                <li>
+                                    <a href="{$U['Index_zhangcheng']}.html">商会章程</a>
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+<!--带箭头的栏目块，结束-->
+                    <ul class="sideMenuNav hidden-xs">
+                        <li class = "hidden-xs"><a href = "{$U['Index_info']}.html">商会详细介绍</a></li>
+                        <li class = "on hidden-xs"><a href = "{$U['Index_info_lingdao']}.html">领导人介绍</a></li>
+                        <li class = "hidden-xs"><a href = "{$U['Index_info_shjg']}.html">商会结构</a></li>
+                        <li class = "hidden-xs"><a href = "#">入会程序</a></li>
+                        <li class = "hidden-xs"><a href = "{$U['Index_zhangcheng']}.html">商会章程</a></li>
+                    </ul>
+                </div>
+                <div class="sideContact hidden-xs" style="background-image:url(__PUBLIC__/images/contactBg.jpg);">
+                    <div class="sideContactTit">
+                        <a style="text-decoration:none;">
+                            <i style="color:#930000;" class="fa fa-comment" aria-hidden="true"></i>
+                            联系我们
+                        </a>
+                    </div>
+                    <div class="sideContactBox">
+                        <ul class="fa-ul">
+                            <li><i class="fa-li fa fa-address-book" aria-hidden="true"></i>{$info->address}</li>
+                            <li><i class="fa-li fa fa-phone" aria-hidden="true"></i>{$info->tel}</li>
+                            <li><i class="fa-li fa fa-envelope" aria-hidden="true"></i>{$info->email}</li>
+                            <li><i class="fa-li fa fa-fax" aria-hidden="true"></i>{$info->fax}</li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-9" style="background-color:#e6e6fa;height:auto;">
+                <div class="Ml">
+                    <div class="path">
+                        <div class="lingdao">
+                            <strong>商会详细介绍</strong>
+                        </div>
+                        <div class="pathdiv" style="margin-top:20px;">
+                            <a href = "{$U['Index_index']}.html" style = "text-decoration: none;">
+                                首页
+                            </a>
+                            <span>&gt;</span>
+                            <a href = "{$U['Index_info']}.html">
+                                商会介绍
+                            </a>
+                            <span>&gt;</span>
+                            <a href = "" class = "on">
+                                领导人介绍
+                            </a>
+
+                        </div>
+                    </div>
+                    <ul class="organize">
+                        <li class="fixed">
+                            <a href="javascript:;">
+                                <div class="photo"><img src="__PUBLIC__/images/dao.jpg" alt="" title="" /></div>
+                                <div class="organzineText">
+                                    <h3>刘绍喜 省工商联副主席简介：</h3>
+                                    <div class="orInfo">男，汉族，1963年12月生，汕头澄海人，中共党员，研究生学历，助理经济师，宜华企业（集团）有限公司董事长、广东省宜华木业股份有限公司董事长兼总经理。广东省人大代表。</div>
+                                </div>
+                            </a>
+                        </li>
+                        <li class="fixed">
+                            <a href="javascript:;">
+                                <div class="photo"><img src="__PUBLIC__/images/dao.jpg" alt="" title="" /></div>
+                                <div class="organzineText">
+                                    <h3>许智明 省工商联副主席简介：</h3>
+                                    <div class="orInfo">男，汉族，1964年3月生，广东高州人，大专学历，凯富石油集团有限公司董事局主席、香港《镜报》董事长。全国政协委员、全国工商联常委。</div>
+                                </div>
+                            </a>
+                        </li>
+                        <li class="fixed">
+                            <a href="javascript:;">
+                                <div class="photo"><img src="__PUBLIC__/images/dao.jpg" alt="" title="" /></div>
+                                <div class="organzineText">
+                                    <h3>岑润洪 省工商联副主席简介：</h3>
+                                    <div class="orInfo">男，汉族，1957年4月生，广东恩平人，无党派人士，高中学历，广东恒威集团有限公司董事长兼总经理。</div>
+                                </div>
+                            </a>
+                        </li>
+                        <li class="fixed">
+                            <a href="javascript:;">
+                                <div class="photo"><img src="__PUBLIC__/upfile/2016/05/11/20160511160850_858.jpg" alt="" title="" /></div>
+                                <div class="organzineText">
+                                    <h3>苏志刚 省工商联副主席简介：</h3>
+                                    <div class="orInfo">男，汉族，1958年6月生，广东番禺人，无党派人士，广州长隆集团有限公司董事长。全国工商联副主席。</div>
+                                </div>
+                            </a>
+                        </li>
+                        <li class="fixed">
+                            <a href="javascript:;">
+                                <div class="photo"><img src="__PUBLIC__/upfile/2016/05/11/20160511160719_405.jpg" alt="" title="" /></div>
+                                <div class="organzineText">
+                                    <h3>陈志列 省工商联副主席简介：</h3>
+                                    <div class="orInfo">男，汉族，1963年1月生，江苏无锡人，无党派人士，研究生学历，高级工程师，研祥集团董事局主席兼总裁、深圳研祥智能科技股份有限公司董事长。</div>
+                                </div>
+                            </a>
+                        </li>
+                    </ul>
+                    <div class="paged">
+                        <span class="current disabled">上一页</span><span class="current disabled">1</span>
+                        <a title="2" href="">2</a>
+                        <a class="p1"
+                           title="下一页" href="">下一页</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<!--让内容，和底部footer空出一点距离-->
+<div style="height:15px; width:100%;"></div>
+<script src="__PUBLIC__/lib/bootstrap/js/index.js"></script>
